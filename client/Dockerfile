@@ -5,7 +5,8 @@ WORKDIR /usr/src/app
 ENV PATH /usr/src/app/node_modules/.bin:$PATH
 COPY package.json ./
 COPY package-lock.json ./
-RUN npm install --silent
+RUN npm cache clean --force
+RUN npm install
 #RUN npm install react-scripts@3.4.1 -g --silent 
 COPY . /usr/src/app
 #RUN CI=true npm test
