@@ -1,52 +1,51 @@
 const SoinChv = [
   {
-    "OffersNo": 1374389,
-    "DescriptionOffre": "Advance techniques Ultimate Shine : Sérum 30ml",
-    "category": "Cheveux",
-    "Type": "Soin",
-    "PrixRegulier": 35,
-    "PrixResultatOffre": 22
-  },
-  {
-    "OffersNo": 1371657,
-    "DescriptionOffre": "Advance techniques Huile d'argan du maroc : Huile 100ml",
-    "category": "Cheveux",
-    "Type": "Soin",
-    "PrixRegulier": 40,
-    "PrixResultatOffre": 23
-  },
-  {
     "OffersNo": 1371660,
     "DescriptionOffre": "Advance techniques Huile d'argan du maroc : Sérum 30ml",
-    "category": "Cheveux",
-    "Type": "Soin",
+    "category": "Cheveux ",
+    "category": "Soin",
     "PrixRegulier": 35,
-    "PrixResultatOffre": 22
-  },
-  {
-    "OffersNo": 1457230,
-    "DescriptionOffre": "Advance techniques Fabulous Curls : Sérum 30ml",
-    "category": "Cheveux",
-    "Type": "Soin",
+    "PrixResultatOffre": 17
+   },
+   {
+    "OffersNo": 1374381,
+    "DescriptionOffre": "Advance techniques Loss Control : Soin 100ml",
+    "category": "Cheveux ",
+    "category": "Soin",
+    "PrixRegulier": 36,
+    "PrixResultatOffre": 20.5
+   },
+   {
+    "OffersNo": 1456698,
+    "DescriptionOffre": "Advance techniques Fabulous Curls : Crème de Coiffage 150ml",
+    "category": "Cheveux ",
+    "category": "Soin",
+    "PrixRegulier": 22,
+    "PrixResultatOffre": 13
+   },
+   {
+    "OffersNo": 1502290,
+    "DescriptionOffre": "Deeply Purifying : Gommage Exfoliant Purifiant 200ml",
+    "category": "Cheveux ",
+    "category": "Soin",
+    "PrixRegulier": 48,
+    "PrixResultatOffre": 27
+   },
+   {
+    "OffersNo": 1374389,
+    "DescriptionOffre": "Advance techniques Ultimate Shine : Sérum 30ml",
+    "category": "Cheveux ",
+    "category": "Soin",
     "PrixRegulier": 35,
-    "PrixResultatOffre": 22
-  },
-  // {
-  //   "OffersNo": 1499371,
-  //   "DescriptionOffre": "Advance techniques Deeply Purifying : Shampooing Purifiant 400ml",
-  //   "category": "Cheveux",
-  //   "Type": "Soin",
-  //   "PrixRegulier": 32,
-  //   "PrixResultatOffre": 18
-  // },
-  {
-    "OffersNo": 1514156,
-    "DescriptionOffre": "Avon Care Girls Rule : Gel douche 250ml",
-    "category": "Enfants",
-    "Type": "Soin",
-    "PrixRegulier": 24,
-    "PrixResultatOffre": 12
-  },
-   
+    "PrixResultatOffre": 21
+   },
+   {
+    "OffersNo": 1371657,
+    "DescriptionOffre": "Advance techniques Huile d'argan du maroc : Huile 100ml",
+    "category": "Cheveux ",
+    "category": "Soin",
+    "PrixRegulier": 40,
+    "PrixResultatOffre": 24
+   },
 ]
 export default SoinChv

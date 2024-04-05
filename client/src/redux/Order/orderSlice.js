@@ -1,4 +1,4 @@
-https://prod-back.avon-tunisie-shop.com.tn/import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 import { toast } from 'react-toastify';
 

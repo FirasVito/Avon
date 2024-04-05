@@ -32,9 +32,7 @@ function UncontrolledExample() {
               <li className="nav-item">
                 <a className="nav-link" href="/Offres">Offres</a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/Coffrets">Coffrets </a>
-              </li>
+     
               <li className="nav-item">
                 <a className="nav-link" href="/products">Femme</a>
               </li>
@@ -138,9 +136,9 @@ function UncontrolledExample() {
               <Nav.Link eventKey="Third">  PRODUITS DE TOILETTE   </Nav.Link>
             </Nav.Item>
 
-            <Nav.Item>
+            {/* <Nav.Item>
               <Nav.Link eventKey="second">  SOINS  </Nav.Link>
-            </Nav.Item>
+            </Nav.Item> */}
             {/* <Nav.Item>
               <Nav.Link eventKey="fifty">  COFFRET  </Nav.Link>
             </Nav.Item> */}

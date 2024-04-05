@@ -11,7 +11,6 @@ import { useDispatch, useSelector } from "react-redux";
 import './Dproduct.css'
 import FragranceFemme from './category/femme/FraganceFemme';
 import SoinCorps from './category/femme/SoinCorps';
-import CoffretFme from './category/femme/CoffretFme';
 function UncontrolledExample() {
   const totalQte = useSelector((state)=>state.cart.cartTotalQuantity)
 
@@ -32,9 +31,6 @@ function UncontrolledExample() {
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/Offres">Offres</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/Coffrets">Coffrets </a>
               </li>
               <li className="nav-item active">
                 <a className="nav-link" href="/products">Femme</a>

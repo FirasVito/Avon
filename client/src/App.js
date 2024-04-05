@@ -38,7 +38,7 @@ function App() {
           <Route path="/Cheveux" element={<Chvx />} />
           <Route path="/Enfants" element={<Enfant />} />
           <Route path="/Coffrets" element={<AllCoffrets />} />
-          <Route path="/Gifts" element={<AddGifts/>} />
+          <Route path="/Idées-Cdx" element={<Offres/>} />
 
         </>
       ) : (

@@ -80,7 +80,7 @@ function Header() {
               <a className="nav-link" href="/Cheveux">Cheveux</a>
               </li>
               <li className="nav-item">
-              <a className="nav-link" href="/Gift">Idées Cadeaux</a>
+              <a className="nav-link" href="/Idées-Cdx">Idées Cadeaux</a>
               </li>
               <li className="nav-item">
                 <a className="nav-link" href="/cart">

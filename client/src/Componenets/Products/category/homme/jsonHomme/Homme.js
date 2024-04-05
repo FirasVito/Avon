@@ -1,308 +1,302 @@
 const Homme = [ 
 
 
-   {
-    "OffersNo": 1491024,
-    "DescriptionOffre": "Fragrance Homme \"Elite Gentelmen In Black\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 80
-   },
-   
-   {
-    "OffersNo": 1475674,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Quantum\" : Gel douche 2en1 250ml",
-    "category": "Fragrances",
-    "PrixRegulier": 33,
-    "PrixResultatOffre": 33
-   },
-   {
-    "OffersNo": 1454746,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Quantum\" : Eau de toilette 75ml",
-    "category": "Fragrances",
+  {
+    "OffersNo": 1491034,
+    "DescriptionOffre": "Full Speed : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 124,
     "PrixResultatOffre": 74
    },
-
    {
-    "OffersNo": 1474792,
-    "DescriptionOffre": "Fragrance Homme \"TTA the Moment\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 160,
-    "PrixResultatOffre": 89
+    "OffersNo": 1502905,
+    "DescriptionOffre": "Full Speed Electric : Gel douche corps et cheveux 250ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 33,
+    "PrixResultatOffre": 19.5
    },
-   {
-    "OffersNo": 1491573,
-    "DescriptionOffre": "Fragrance Homme \"TTA\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 160,
-    "PrixResultatOffre": 96
-   },
-   {
-    "OffersNo": 1491046,
-    "DescriptionOffre": "Fragrance Homme \" Attraction Desire\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 59
-   },
-   {
-    "OffersNo": 1490322,
-    "DescriptionOffre": "Fragrance Homme \"Luck\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 67
-   },
-  //  {
-  //   "OffersNo": 1498072,
-  //   "DescriptionOffre": "Fragrance Homme \"Attraction Game\" : Eau de toilette en vaporisateur 75ml",
-  //   "category": "Fragrances",
-  //   "PrixRegulier": 134,
-  //   "PrixResultatOffre": 59
-  //  },
-   {
-    "OffersNo": 1490710,
-    "DescriptionOffre": "Fragrance Homme \" Perceive\" : Eau de toilette 100ml",
-    "category": "Fragrances",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 67
-   },
-   {
-    "OffersNo": 1491034,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 124,
-    "PrixResultatOffre": 69
-   },
-   {
-    "OffersNo": 1491041,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Gamer\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 124,
-    "PrixResultatOffre": 69
-   },
-   {
-    "OffersNo": 1491565,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Surfer\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 124,
-    "PrixResultatOffre": 69
-   },
-   {
-    "OffersNo": 1504428,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Electric\" : Eau de toilette en vaporisateur 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 124,
-    "PrixResultatOffre": 69
-   },
-  //  {
-  //   "OffersNo": 1524283,
-  //   "DescriptionOffre": "Fragrance Homme \"Full Speed Pulse\" : Eau de toilette en vaporisateur 75ml",
-  //   "category": "Fragrances",
-  //   "PrixRegulier": 124,
-  //   "PrixResultatOffre": 69
-  //  },
-  //  {
-  //   "OffersNo": 1491023,
-  //   "DescriptionOffre": "Fragrance Homme \"Elite Gentelmen\" : Eau de toilette 75ml",
-  //   "category": "Fragrances",
-  //   "PrixRegulier": 134,
-  //   "PrixResultatOffre": 79
-  //  },
    {
     "OffersNo": 1493848,
-    "DescriptionOffre": "Fragrance Homme \" Attraction\" : Eau de toilette 75ml",
-    "category": "Fragrances",
+    "DescriptionOffre": "Attraction : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 79
-   },
-  //  {
-  //   "OffersNo": 1519170,
-  //   "DescriptionOffre": "Fragrance Homme \"Elite Gentelmen Quest\" :Eau de toilette en vaporisateur 75ml",
-  //   "category": "Fragrances",
-  //   "PrixRegulier": 134,
-  //   "PrixResultatOffre": 79
-  //  },
-   {
-    "OffersNo": 1490717,
-    "DescriptionOffre": "Fragrance Homme \"Segno\" : Eau de parfum 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 79
-   },
-   {
-    "OffersNo": 1491566,
-    "DescriptionOffre": "Fragrance Homme \"Segno Impact\" : Eau de parfum 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 79
-   },
-   {
-    "OffersNo": 1422887,
-    "DescriptionOffre": "Fragrance Homme \"Elite Gentelmen In Black\" : Déodorant à bille 50ml",
-    "category": "Fragrances",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 12
-   },
-   {
-    "OffersNo": 1491584,
-    "DescriptionOffre": "Fragrance Homme \"Absolute Santal By Elite Gentleman\" : Eau de toilette 50ml",
-    "category": "Fragrances",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 79
-   },
-   {
-    "OffersNo": 6577100,
-    "DescriptionOffre": "Fragrance Homme \"Wild Country\" : Déodorant en vaporisateur 150ml",
-    "category": "Fragrances",
-    "PrixRegulier": 28,
-    "PrixResultatOffre": 16.5
-   },
-   {
-    "OffersNo": 1446947,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed\" : Déodorant en vaporisateur 150ml",
-    "category": "Fragrances",
-    "PrixRegulier": 28,
-    "PrixResultatOffre": 16.5
+    "PrixResultatOffre": 64
    },
    {
     "OffersNo": 1491037,
-    "DescriptionOffre": "Fragrance Homme \"Musk Marine\" : Eau de toilette 75ml",
-    "category": "Fragrances",
+    "DescriptionOffre": "Musk Marine : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 96,
-    "PrixResultatOffre": 57
+    "PrixResultatOffre": 52
    },
    {
-    "OffersNo": 1444791,
-    "DescriptionOffre": "Fragrance Homme \"Musk Marine\" : Déodorant à bille 50ml",
-    "category": "Fragrances",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 7.2
+    "OffersNo": 1482221,
+    "DescriptionOffre": "Musk Instinct : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 96,
+    "PrixResultatOffre": 52
    },
    {
-    "OffersNo": 1490715,
-    "DescriptionOffre": "Fragrance Homme 30ml : Full speed ",
-    "category": "Fragrances",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 38
+    "OffersNo": 1479956,
+    "DescriptionOffre": "Musk Mineralis : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 96,
+    "PrixResultatOffre": 52
    },
    {
-    "OffersNo": 1398209,
-    "DescriptionOffre": "Fragrance Homme \" Attraction Desire\" : Gel douche 2en1 200ml",
-    "category": "Fragrances",
-    "PrixRegulier": 33,
-    "PrixResultatOffre": 19
+    "OffersNo": 1518114,
+    "DescriptionOffre": "Black Suede Real : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 116,
+    "PrixResultatOffre": 63
+   },
+   {
+    "OffersNo": 1491024,
+    "DescriptionOffre": "Elite Gentleman In Black : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 134,
+    "PrixResultatOffre": 73
    },
   //  {
-  //   "OffersNo": 1499374,
-  //   "DescriptionOffre": "Fragrance Homme \" Elite Gentleman Quest\" : Gel douche 2en1 250ml",
-  //   "category": "Fragrances",
-  //   "PrixRegulier": 33,
-  //   "PrixResultatOffre": 19
+  //   "OffersNo": 1519170,
+  //   "DescriptionOffre": "Elite Gentleman Quest : Eau de toilette en vaporisateur 75ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 134,
+  //   "PrixResultatOffre": 73
   //  },
    {
-    "OffersNo": 5424600,
-    "DescriptionOffre": "Fragrance Homme \"Wild Country\" : Gel douche 2en1 250ml",
-    "category": "Fragrances",
+    "OffersNo": 1491584,
+    "DescriptionOffre": "Absolute Santal : Eau de toilette en vaporisateur 50ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 134,
+    "PrixResultatOffre": 73
+   },
+  //  {
+  //   "OffersNo": 1526531,
+  //   "DescriptionOffre": "Elite Gentleman : Gel douche corps et cheveux 250ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 33,
+  //   "PrixResultatOffre": 19.5
+  //  },
+  
+   {
+    "OffersNo": 1491023,
+    "DescriptionOffre": "Elite Gentleman : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 134,
+    "PrixResultatOffre": 80
+   },
+   {
+    "OffersNo": 1491565,
+    "DescriptionOffre": "Full Speed Surfer : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 124,
+    "PrixResultatOffre": 68
+   },
+   {
+    "OffersNo": 1504428,
+    "DescriptionOffre": "Full Speed Electric : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 124,
+    "PrixResultatOffre": 68
+   },
+  //  {
+  //   "OffersNo": 1524283,
+  //   "DescriptionOffre": "Full Speed Pulse : Eau de toilette en vaporisateur 75ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 124,
+  //   "PrixResultatOffre": 68
+  //  },
+   {
+    "OffersNo": 1475674,
+    "DescriptionOffre": "Full Speed Quantum : Gel douche corps et cheveux 250ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 33,
-    "PrixResultatOffre": 19
+    "PrixResultatOffre": 19.5
+   },
+   {
+    "OffersNo": 1454746,
+    "DescriptionOffre": "Full Speed Quantum : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 124,
+    "PrixResultatOffre": 74
+   },
+  //  {
+  //   "OffersNo": 1498072,
+  //   "DescriptionOffre": "Attraction Game : Eau de toilette en vaporisateur 75ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 134,
+  //   "PrixResultatOffre": 65
+  //  },
+   {
+    "OffersNo": 1493874,
+    "DescriptionOffre": "Attraction Intense : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 134,
+    "PrixResultatOffre": 65
+   },
+  //  {
+  //   "OffersNo": 1505704,
+  //   "DescriptionOffre": "Attraction Awaken : Eau de toilette en vaporisateur 75ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 134,
+  //   "PrixResultatOffre": 80
+  //  },
+  //  {
+  //   "OffersNo": 1505706,
+  //   "DescriptionOffre": "Attraction Awaken :Gel douche corps et cheveux 200ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 33,
+  //   "PrixResultatOffre": 19.5
+  //  },
+   {
+    "OffersNo": 1491573,
+    "DescriptionOffre": "TTA Today : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 160,
+    "PrixResultatOffre": 79
+   },
+   {
+    "OffersNo": 1474792,
+    "DescriptionOffre": "TTA The Moment : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 160,
+    "PrixResultatOffre": 80
    },
    {
     "OffersNo": 1498783,
-    "DescriptionOffre": "Fragrance Homme \"TTA the Moment\" : Gel douche 2en1 200ml",
-    "category": "Fragrances",
+    "DescriptionOffre": "TTA The Moment : Gel douche corps et cheveux 200ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 33,
-    "PrixResultatOffre": 19
+    "PrixResultatOffre": 19.5
    },
    {
-    "OffersNo": 1502905,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Electric\" : Gel douche 2en1 250ml",
-    "category": "Fragrances",
-    "PrixRegulier": 33,
-    "PrixResultatOffre": 19
+    "OffersNo": 1491578,
+    "DescriptionOffre": "Black Suede Secret : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 116,
+    "PrixResultatOffre": 63
    },
    {
-    "OffersNo": 1376999,
-    "DescriptionOffre": "Fragrance Homme \"TTA\" : Gel douche 2en1 200ml",
-    "category": "Fragrances",
-    "PrixRegulier": 33,
-    "PrixResultatOffre": 19
+    "OffersNo": 1490704,
+    "DescriptionOffre": "Black Suede : Eau de toilette en vaporisateur 75ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 116,
+    "PrixResultatOffre": 69
    },
   //  {
-  //   "OffersNo": 927600,
-  //   "DescriptionOffre": "Fragrance Homme \"Elite Gentelmen\" : Gel douche 2en1 250ml",
-  //   "category": "Fragrances",
-  //   "PrixRegulier": 33,
-  //   "PrixResultatOffre": 19
+  //   "OffersNo": 1372312,
+  //   "DescriptionOffre": "Avon Care Essential : Gel de rasage 150ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 34,
+  //   "PrixResultatOffre": 20
   //  },
    {
-    "OffersNo": 1454747,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Quantum\" : Déodorant à bille 50ml",
-    "category": "Fragrances",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 12
-   },
-   {
     "OffersNo": 1490325,
-    "DescriptionOffre": "Fragrance Homme \"Individual Blue\" : Eau de toilette 100ml",
-    "category": "Fragrances",
+    "DescriptionOffre": "Individual Blue : Eau de toilette en vaporisateur 100ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 100,
     "PrixResultatOffre": 55
    },
   //  {
   //   "OffersNo": 1491017,
-  //   "DescriptionOffre": "Fragrance Homme \"Wild Country\" : Eau de toilette 75ml",
-  //   "category": "Fragrances",
+  //   "DescriptionOffre": "Wild Country : Eau de toilette en vaporisateur 75ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
   //   "PrixRegulier": 100,
   //   "PrixResultatOffre": 55
   //  },
-   {
-    "OffersNo": 1490704,
-    "DescriptionOffre": "Fragrance Homme \"Black Suede\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 116,
-    "PrixResultatOffre": 69
-   },
-   {
-    "OffersNo": 1491578,
-    "DescriptionOffre": "Fragrance Homme \"Black Suede Secret\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 116,
-    "PrixResultatOffre": 69
-   },
-   {
-    "OffersNo": 1518114,
-    "DescriptionOffre": "Fragrance Homme \"Black Suede Real\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 116,
-    "PrixResultatOffre": 69
-   },
-   {
-    "OffersNo": 1482221,
-    "DescriptionOffre": "Fragrance Homme \"Musk Instinct+\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 96,
-    "PrixResultatOffre": 57
-   },
-   {
-    "OffersNo": 1479956,
-    "DescriptionOffre": "Fragrance Homme \"Musk Mineralis\" : Eau de toilette 75ml",
-    "category": "Fragrances",
-    "PrixRegulier": 96,
-    "PrixResultatOffre": 57
-   },
+  //  {
+  //   "OffersNo": 1522352,
+  //   "DescriptionOffre": "Full Speed Pulse : Déodorant parfumé à bille 50ml",
+  //   "category": "Homme",
+  //   "category": "Fragrance",
+  //   "PrixRegulier": 12,
+  //   "PrixResultatOffre": 7.2
+  //  },
    {
     "OffersNo": 1460790,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed\" : Déodorant à bille 50ml",
-    "category": "Fragrances",
+    "DescriptionOffre": "Full Speed : Déodorant parfumé à bille 50ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2
+   },
+   {
+    "OffersNo": 1422887,
+    "DescriptionOffre": "Elite Gentleman In Black : Déodorant parfumé à bille 50ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2
+   },
+   {
+    "OffersNo": 1454747,
+    "DescriptionOffre": "Full Speed Quantum : Déodorant parfumé à bille 50ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 12,
     "PrixResultatOffre": 7.2
    },
    {
     "OffersNo": 1306421,
-    "DescriptionOffre": "Fragrance Homme \"Individual Blue\" : Déodorant à bille 50ml",
-    "category": "Fragrances",
+    "DescriptionOffre": "Individual Blue : Déodorant parfumé à bille 50ml",
+    "category": "Homme",
+    "category": "Fragrance",
     "PrixRegulier": 12,
     "PrixResultatOffre": 7.2
+   },
+   {
+    "OffersNo": 1475620,
+    "DescriptionOffre": "Black Suede Secret : Déodorant parfumé à bille 50ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2
+   },
+   {
+    "OffersNo": 1522584,
+    "DescriptionOffre": "Black Suede Real : Déodorant parfumé à bille 50ml",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2
+   },
+   {
+    "OffersNo": 1499361,
+    "DescriptionOffre": "Gel-douche 500ml : Spiced Pepper \"3en1\"",
+    "category": "Homme",
+    "category": "Fragrance",
+    "PrixRegulier": 29,
+    "PrixResultatOffre": 16
    }
     ]
   export default Homme
