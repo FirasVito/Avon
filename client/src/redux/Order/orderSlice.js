@@ -1,4 +1,4 @@
-import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
+https://prod-back.avon-tunisie-shop.com.tn/import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
 import axios from 'axios';
 import { toast } from 'react-toastify';
 
@@ -7,7 +7,7 @@ export const createOrder = createAsyncThunk(
   'order/createOrder',
   async (orderData, thunkAPI) => {
     try {
-      await axios.post('http://162.19.250.36:5000/api/orders/create-order', orderData);
+      await axios.post('https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/create-order', orderData);
       toast.success('Commande créée avec succès', {
         position: toast.POSITION.BOTTOM_CENTER,
       });
@@ -21,7 +21,7 @@ export const markOrderAsDone = createAsyncThunk(
   'order/markOrderAsDone',
   async (orderId, thunkAPI) => {
     try {
-      await axios.patch(`https://162.19.250.36:5000/api/orders/mark-as-done/${orderId}`);
+      await axios.patch(`https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/mark-as-done/${orderId}`);
       toast.success('Order marked as done successfully', {
         position: toast.POSITION.BOTTOM_CENTER,
       });
@@ -35,7 +35,7 @@ export const markOrderAsDone = createAsyncThunk(
 // Async thunk for fetching orders
 export const fetchOrders = createAsyncThunk('order/fetchOrders', async () => {
   try {
-    const response = await axios.get('http://162.19.250.36:5000/api/orders/get-orders'); // Change the API endpoint accordingly
+    const response = await axios.get('https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/get-orders'); // Change the API endpoint accordingly
     return response.data;
   } catch (error) {
     throw new Error('An error occurred while fetching orders.');
