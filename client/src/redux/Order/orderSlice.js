@@ -1,14 +1,17 @@
-import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
-import axios from 'axios';
-import { toast } from 'react-toastify';
+import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
+import axios from "axios";
+import { toast } from "react-toastify";
 
 // Async thunk for creating an order
 export const createOrder = createAsyncThunk(
-  'order/createOrder',
+  "order/createOrder",
   async (orderData, thunkAPI) => {
     try {
-      await axios.post('https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/create-order', orderData);
-      toast.success('Commande créée avec succès', {
+      await axios.post(
+        "https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/create-order",
+        orderData
+      );
+      toast.success("Commande créée avec succès", {
         position: toast.POSITION.BOTTOM_CENTER,
       });
       return orderData;
@@ -18,11 +21,13 @@ export const createOrder = createAsyncThunk(
   }
 );
 export const markOrderAsDone = createAsyncThunk(
-  'order/markOrderAsDone',
+  "order/markOrderAsDone",
   async (orderId, thunkAPI) => {
     try {
-      await axios.patch(`https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/mark-as-done/${orderId}`);
-      toast.success('Order marked as done successfully', {
+      await axios.patch(
+        `https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/mark-as-done/${orderId}`
+      );
+      toast.success("Order marked as done successfully", {
         position: toast.POSITION.BOTTOM_CENTER,
       });
       return orderId;
@@ -33,17 +38,19 @@ export const markOrderAsDone = createAsyncThunk(
 );
 
 // Async thunk for fetching orders
-export const fetchOrders = createAsyncThunk('order/fetchOrders', async () => {
+export const fetchOrders = createAsyncThunk("order/fetchOrders", async () => {
   try {
-    const response = await axios.get('https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/get-orders'); // Change the API endpoint accordingly
+    const response = await axios.get(
+      "https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/get-orders"
+    ); // Change the API endpoint accordingly
     return response.data;
   } catch (error) {
-    throw new Error('An error occurred while fetching orders.');
+    throw new Error("An error occurred while fetching orders.");
   }
 });
 
 const orderSlice = createSlice({
-  name: 'order',
+  name: "order",
   initialState: {
     orders: [],
     loading: false,
@@ -58,7 +65,6 @@ const orderSlice = createSlice({
       })
       .addCase(createOrder.fulfilled, (state) => {
         state.loading = false;
-      
       })
       .addCase(createOrder.rejected, (state, action) => {
         state.loading = false;
@@ -85,12 +91,12 @@ const orderSlice = createSlice({
         // Update the order in the state to mark it as done
         state.orders = state.orders.map((order) =>
           order._id === action.payload ? { ...order, done: true } : order
-        )
+        );
       })
       .addCase(markOrderAsDone.rejected, (state, action) => {
         state.loading = false;
         state.error = action.payload;
-      })
+      });
   },
 });
 
