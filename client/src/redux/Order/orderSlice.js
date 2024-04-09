@@ -25,7 +25,7 @@ export const markOrderAsDone = createAsyncThunk(
   async (orderId, thunkAPI) => {
     try {
       await axios.patch(
-        https://prod-back.avon-tunisie-shop.com.tn/api/orders/mark-as-done/${orderId}
+        `https://prod-back.avon-tunisie-shop.com.tn/api/orders/mark-as-done/${orderId}`
       );
       toast.success("Order marked as done successfully", {
         position: toast.POSITION.BOTTOM_CENTER,
