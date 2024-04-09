@@ -41,7 +41,7 @@ export const markOrderAsDone = createAsyncThunk(
 export const fetchOrders = createAsyncThunk("order/fetchOrders", async () => {
   try {
     const response = await axios.get(
-      "https://prod-back.avon-tunisie-shop.com.tn:5000/api/orders/get-orders"
+      "https://avon-avon-back.lvgpwr.easypanel.host/api/orders/get-orders"
     ); // Change the API endpoint accordingly
     return response.data;
   } catch (error) {
