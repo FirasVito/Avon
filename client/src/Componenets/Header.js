@@ -8,7 +8,6 @@ import back from "../BGSITE.png"
 import Pop from "../../src/pop.png"
 import { useNavigate } from 'react-router-dom'; // Import useNavigate hook
 import { FaShoppingCart } from "react-icons/fa";
-import vf from "./ImagePUB1.png"
 
 function Header() {
   const totalQte = useSelector((state)=>state.cart.cartTotalQuantity)
@@ -632,21 +631,7 @@ function Header() {
     </p>
     
   </div>
-  <Modal show={showPopup} onHide={handleClose}>
-  <Modal.Body>
-        <Modal.Header closeButton>
-          <p>Offre valable de Vendredi 12 jusqu'à Jeudi 18 Janvier 2024</p>
-        </Modal.Header>
-        <Modal.Body>
-  <img src={vf} alt="" style={{ width: '100%', height: 'auto', maxWidth: '100%', maxHeight: '150%' }} />
-</Modal.Body>
-        <Modal.Footer style={{ justifyContent: 'flex-start' }}>
-  <Button href='https://avon-tunisie-shop.com.tn//product/ImagePUB1' variant="primary" onClick={handleClose} style={{ backgroundColor: '#e51d4e', border: 'none' }}>
-    Acheter maintenant
-  </Button>
-</Modal.Footer>
-</Modal.Body>
-      </Modal> 
+
 </div>
 
 
