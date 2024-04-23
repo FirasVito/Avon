@@ -1,6 +1,7 @@
 const productsData = [
 
- 
+ {"OffersNo":"ImagePUB1","CatalogueNo":"CAT24-07","TypeOffre":"007","NoArticleFacturation":"VF042304","DescriptionOffre":"Vente Flash","TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":79.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"01","PrixRegulier":237.000,"DescrOffers":"1 Fragrance + 1 Lait Parfumé + 1 Déo en vaporisateur "},
+
 {"OffersNo":"OF24-00158","CatalogueNo":"CAT24-07","TypeOffre":"007","NoArticleFacturation":"BR042401","DescriptionOffre":"Lot Far Away","TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":93.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"01","PrixRegulier":194.000,"DescrOffers":"1 Fragrance + 1 Lait Parfumé + 1 Déo en vaporisateur "},
 //{"OffersNo":"OF24-00159","CatalogueNo":"CAT24-07","TypeOffre":"007","NoArticleFacturation":"BR042402","DescriptionOffre":"Lot Full Speed ","TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":75.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"01","PrixRegulier":157.000,"DescrOffers":"1 Fragrance + 1 Gel-douche corps et cheveux"},
 {"OffersNo":"OF24-00160","CatalogueNo":"CAT24-07","TypeOffre":"007","NoArticleFacturation":"BR042403","DescriptionOffre":"Lot Care Avocat ","TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":45.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"01","PrixRegulier":90.000,"DescrOffers":"1 Lait Corps + 1 Créme Mains +1 Shampooing"},
