@@ -634,7 +634,7 @@ function Header() {
   <Modal show={showPopup} onHide={handleClose}>
   <Modal.Body>
         <Modal.Header closeButton>
-          <p>Offre valable de Vendredi 12 jusqu'à Jeudi 18 Janvier 2024</p>
+          
         </Modal.Header>
         <Modal.Body>
   <img src={vf} alt="" style={{ width: '100%', height: 'auto', maxWidth: '100%', maxHeight: '150%' }} />
