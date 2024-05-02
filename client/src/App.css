@@ -596,8 +596,10 @@ a:focus {
     -webkit-transition: all .3s;
     transition: all .3s;
     overflow: hidden;
-    box-shadow: 5px 5px 5px -5px rgba(0,0,0,.2);
-    border: solid #fff 10px;
+    box-shadow: 50px 5px 50px -5px rgba(0,0,0,.2);
+    border-radius: 15px;
+
+    border: solid #ddbaba 10px;
 }
 
 .product_section .box .img-box {
@@ -1437,7 +1439,7 @@ form input[type="submit"]:focus {
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    background-color: #fff;
+    background-color: #ffefef;
   }
   
   [tabindex="-1"]:focus {
