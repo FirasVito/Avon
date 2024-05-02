@@ -72,14 +72,7 @@
     "PrixRegulier": 64,
     "PrixResultatOffre": 35
    },
-   {
-    "OffersNo": 1479959,
-    "DescriptionOffre": "Fragrance Femme \"Pur Blanca Hope\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 90,
-    "PrixResultatOffre": 0
-   },
+
    {
     "OffersNo": 1526142,
     "DescriptionOffre": "Fragrance Femme \"Pur Blanca Golden Burst\" : Eau de toilette 50ml",
