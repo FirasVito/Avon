@@ -1,6 +1,8 @@
 const productsData = [
 
 
+{"OffersNo":"VF3X","CatalogueNo":"CAT24-11","TypeOffre":"001","NoArticleFacturation":"1236500","DescriptionOffre":"3 Créme Solaire ","TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":64.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"02","PrixRegulier":174.000,"DescrOffers":"3 Créme Solaire"},
+{"OffersNo":"VF4X","CatalogueNo":"CAT24-11","TypeOffre":"001","NoArticleFacturation":"1488979","DescriptionOffre":"Far Away Coffret Cadeaux","TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":65.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"02","PrixRegulier":174.000,"DescrOffers":"1 Eau de Parum 50ml + 1 Lait Pour le Corps 150ml + 1 Eau de Parfum Vaporisateur de sac 10ml"},
 
 // {"OffersNo":"OF24-00319","CatalogueNo":"CAT24-11","TypeOffre":"001","NoArticleFacturation":"P000985","DescriptionOffre":"Lot Color","TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":49.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"02","PrixRegulier":144.000,"DescrOffers":"1 Eau de Toilette + 1 Soft Musk + 1 Ligneur"},
 // {"OffersNo":"OF24-00248","CatalogueNo":"CAT24-10","TypeOffre":"007","NoArticleFacturation":"BR052401","DescriptionOffre":"Lot Lov U connected"},{"TypeResultatOffre":0,"FormeResultatOffre":0,"PrixResultatOffre":82.000,"PourcentageRemiseOffre":"0","QteResultatOffre":0,"Ncompagne":"","DescriptionType":"","TypeOffreBRBA":"01","PrixRegulier":169.000,"DescrOffers":"1 Fragrance + 1 Lait Parfumé"},
