@@ -644,7 +644,7 @@ function Header() {
 </Modal.Body>
         <Modal.Footer style={{ justifyContent: 'flex-start' }}>
   <Button href='https://avon-tunisie-shop.com.tn/product/VF3X' variant="primary" onClick={handleClose} style={{ backgroundColor: '#e51d4e', border: 'none' }}>
-    Voir Maintenant
+    Voir 
   </Button>
 </Modal.Footer>
 </Modal.Body>
