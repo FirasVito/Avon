@@ -643,8 +643,8 @@ function Header() {
   <img src={VF3X} alt="" style={{ width: '100%', height: 'auto', maxWidth: '100%', maxHeight: '150%' }} />
 </Modal.Body>
         <Modal.Footer style={{ justifyContent: 'flex-start' }}>
-  <Button href='http://localhost:3000/product/VF3X' variant="primary" onClick={handleClose} style={{ backgroundColor: '#e51d4e', border: 'none' }}>
-    Acheter maintenant
+  <Button href='https://avon-tunisie-shop.com.tn/product/VF3X' variant="primary" onClick={handleClose} style={{ backgroundColor: '#e51d4e', border: 'none' }}>
+    Voir Maintenant
   </Button>
 </Modal.Footer>
 </Modal.Body>
