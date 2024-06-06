@@ -1,13 +1,12 @@
 const Enf = [
 
-  
-   {
+  {
     "OffersNo": 1514158,
     "DescriptionOffre": "Avon Girls Rule : Laits pour le Corps 250ml ",
     "category": "Enfants ",
     "Column4": "Enfants",
     "PrixRegulier": 30,
-    "PrixResultatOffre": 17.5
+    "PrixResultatOffre": 17
    },
    {
     "OffersNo": 1514157,
@@ -31,7 +30,7 @@ const Enf = [
     "category": "Enfants ",
     "Column4": "Enfants",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 16
    },
    {
     "OffersNo": 1393600,
@@ -39,16 +38,17 @@ const Enf = [
     "category": "Enfants ",
     "Column4": "Enfants",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 16
    },
-  //  {
-  //   "OffersNo": 328100,
-  //   "DescriptionOffre": "Avon Naturals Kids: Gel Douche et Bain Mousse Lavande 250ml",
-  //   "category": "Enfants ",
-  //   "Column4": "Enfants",
-  //   "PrixRegulier": 28,
-  //   "PrixResultatOffre": 14
-  //  }
+   {
+    "OffersNo": 328100,
+    "DescriptionOffre": "Avon Naturals Kids: Gel Douche et Bain Mousse Lavande 250ml",
+    "category": "Enfants ",
+    "Column4": "Enfants",
+    "PrixRegulier": 28,
+    "PrixResultatOffre": 16
+   }
+
 ];
 
 export default Enf;
