@@ -6,7 +6,6 @@ import Spinner from './Spinner';
 import CoffretProducts from './CoffretsProducts';
 import back from "../BGSITE.png"
 import Pop from "../../src/pop.png"
-import VF3X from "./BAImages/VF3X.png"
 import { useNavigate } from 'react-router-dom'; // Import useNavigate hook
 import { FaShoppingCart } from "react-icons/fa";
 
@@ -632,23 +631,7 @@ function Header() {
     </p>
     
   </div>
-      <Modal show={show} onHide={handleClose}>
-  <Modal.Body>
-        <Modal.Header closeButton>
-          <h2> 3 Créme Solaire
-            <br/>
-             Pour Seulement 64 DT </h2>
-        </Modal.Header>
-        <Modal.Body>
-  <img src={VF3X} alt="" style={{ width: '100%', height: 'auto', maxWidth: '100%', maxHeight: '150%' }} />
-</Modal.Body>
-        <Modal.Footer style={{ justifyContent: 'flex-start' }}>
-  <Button href='https://avon-tunisie-shop.com.tn/product/VF3X' variant="primary" onClick={handleClose} style={{ backgroundColor: '#e51d4e', border: 'none' }}>
-    Voir 
-  </Button>
-</Modal.Footer>
-</Modal.Body>
-      </Modal>  
+
 </div>
 
 
