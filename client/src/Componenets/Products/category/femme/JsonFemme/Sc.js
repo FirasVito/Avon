@@ -1,13 +1,141 @@
 const Sc = [ 
 
 
-
   {
-    "OffersNo": "OffersNo",
-    "DescriptionOffre": "DescriptionOffre",
-    "category": "category",
-    "PrixRegulier": "PrixRegulier",
-    "PrixResultatOffre": "PrixResultatOffre"
+    "OffersNo": 1386030,
+    "DescriptionOffre": "Avon Sun+ Vaporisateur de Protection Solaire Hydratant SPF15 150ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 94,
+    "PrixResultatOffre": 46
+   },
+   {
+    "OffersNo": 1485872,
+    "DescriptionOffre": "Avon Care Derma + Extra Firm + : Lait corps 400ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 40,
+    "PrixResultatOffre": 18
+   },
+   {
+    "OffersNo": 1484919,
+    "DescriptionOffre": "Avon Care Derma + Recovery : Lait corps 400ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 40,
+    "PrixResultatOffre": 23
+   },
+   {
+    "OffersNo": 1522768,
+    "DescriptionOffre": "Simply Delicate : Gel Intime Délicat Gentle 250ml",
+    "category": "Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 22,
+    "PrixResultatOffre": 12.5
+   },
+   {
+    "OffersNo": 1522769,
+    "DescriptionOffre": "Simply Delicate: Gel Intime Rafraîchissant  250ml",
+    "category": "Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 22,
+    "PrixResultatOffre": 12.5
+   },
+   {
+    "OffersNo": 1522767,
+    "DescriptionOffre": "Simply Delicate : Gel Intime Apaisant Calming 250ml",
+    "category": "Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 22,
+    "PrixResultatOffre": 12.5
+   },
+   {
+    "OffersNo": 3997900,
+    "DescriptionOffre": "Avon Works : Crème Dépilatoire pour le Visage 15ml",
+    "category": "Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 26,
+    "PrixResultatOffre": 15
+   },
+   {
+    "OffersNo": 4329000,
+    "DescriptionOffre": "Avon Works : Crème Dépilatoire pour le Corps 100ml",
+    "category": "Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 72,
+    "PrixResultatOffre": 41
+   },
+   {
+    "OffersNo": 1411078,
+    "DescriptionOffre": "Footworks Lavande : Crème nuit 150ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 28,
+    "PrixResultatOffre": 16
+   },
+   {
+    "OffersNo": 1420039,
+    "DescriptionOffre": "Footworks Lavande : Spray 100ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 34,
+    "PrixResultatOffre": 20
+   },
+   {
+    "OffersNo": 1533080,
+    "DescriptionOffre": "Avon Care édition Fete de la femme : Crème pour les mains 75ml",
+    "category": "Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 15,
+    "PrixResultatOffre": 8.5
+   },
+   {
+    "OffersNo": 1504647,
+    "DescriptionOffre": "Avon Care Essential Moisture : Crème Hydratante pour le Mains 75ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 15,
+    "PrixResultatOffre": 8.5
+   },
+   {
+    "OffersNo": 1317279,
+    "DescriptionOffre": "On duty déo à bille Elle : Active 50ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7
+   },
+   {
+    "OffersNo": 4624000,
+    "DescriptionOffre": "On duty déo à bille Elle : Invisible 50ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7
+   },
+   {
+    "OffersNo": 1502233,
+    "DescriptionOffre": "Senses Brume 100ml : Velvet White Lily",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 24,
+    "PrixResultatOffre": 14
+   },
+   {
+    "OffersNo": 1533079,
+    "DescriptionOffre": "Avon Care édition Fete de la femme : Lait pour le corps 400ml",
+    "category": "Homme et Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 40,
+    "PrixResultatOffre": 18
+   },
+   {
+    "OffersNo": 4627100,
+    "DescriptionOffre": "On duty déo à bille Elle : Max Protection 50ml",
+    "category": "Femme",
+    "Column4": "Soin du corps ",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7
    },
    {
     "OffersNo": 1380772,
@@ -23,7 +151,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 21
+    "PrixResultatOffre": 23
    },
    {
     "OffersNo": 1489239,
@@ -31,7 +159,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 38,
-    "PrixResultatOffre": 20
+    "PrixResultatOffre": 22
    },
    {
     "OffersNo": 1488129,
@@ -39,23 +167,24 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 26,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 15
    },
+  
    {
     "OffersNo": 6305500,
     "DescriptionOffre": "Footworks : Crème  cors et les callosités 75ml",
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 16
    },
    {
-    "OffersNo": 1422302,
+    "OffersNo": 1530520,
     "DescriptionOffre": "Footworks : Soin peau rugueuse 75ml",
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 16
    },
    {
     "OffersNo": 1486534,
@@ -63,7 +192,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 16
    },
    {
     "OffersNo": 1420039,
@@ -81,53 +210,14 @@ const Sc = [
     "PrixRegulier": 28,
     "PrixResultatOffre": 16
    },
+
    {
     "OffersNo": 1527367,
     "DescriptionOffre": "Senses Crème de douche 250ml : Sweet & Joyful",
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 22,
-    "PrixResultatOffre": 13
-   },
-   {
-    "OffersNo": 1528544,
-    "DescriptionOffre": "Senses Savon Liquide 250ml : Lavender Calm",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 30,
-    "PrixResultatOffre": 18
-   },
-   {
-    "OffersNo": 1458824,
-    "DescriptionOffre": "Senses Savon Liquide 250ml : Secret Lagoon",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 30,
-    "PrixResultatOffre": 18
-   },
-   {
-    "OffersNo": 1458830,
-    "DescriptionOffre": "Senses Savon Liquide 250ml : Pure Marine",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 30,
-    "PrixResultatOffre": 18
-   },
-   {
-    "OffersNo": 1528541,
-    "DescriptionOffre": "Senses Savon Liquide 250ml : Delicate Moment",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 30,
-    "PrixResultatOffre": 18
-   },
-   {
-    "OffersNo": 1528538,
-    "DescriptionOffre": "Senses Savon Liquide 250ml : Sweet & Joyful",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 30,
-    "PrixResultatOffre": 18
+    "PrixResultatOffre": 12.5
    },
    {
     "OffersNo": 1463828,
@@ -135,7 +225,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1463823,
@@ -143,15 +233,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
-   },
-   {
-    "OffersNo": 1527601,
-    "DescriptionOffre": "Senses Bain Mousse 1L : Pure Marine",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 40,
-    "PrixResultatOffre": 23
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1527605,
@@ -159,7 +241,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1460961,
@@ -167,7 +249,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1502051,
@@ -175,23 +257,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
-   },
-   {
-    "OffersNo": 1527598,
-    "DescriptionOffre": "Senses Bain Mousse 500ml : Pure Marine",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 30,
-    "PrixResultatOffre": 18
-   },
-   {
-    "OffersNo": 1460960,
-    "DescriptionOffre": "Senses Bain Mousse 500ml : White lily",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 30,
-    "PrixResultatOffre": 30
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1528535,
@@ -215,7 +281,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 24,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 10.5
    },
    {
     "OffersNo": 1491601,
@@ -249,6 +315,7 @@ const Sc = [
     "PrixRegulier": 24,
     "PrixResultatOffre": 14
    },
+   
    {
     "OffersNo": 1460111,
     "DescriptionOffre": "Senses Brume 100ml : Raspberry Delight",
@@ -263,7 +330,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 22,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 12.5
    },
    {
     "OffersNo": 1530803,
@@ -279,7 +346,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 30,
-    "PrixResultatOffre": 18
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1530675,
@@ -287,7 +354,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1502234,
@@ -295,7 +362,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 17
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1531602,
@@ -303,7 +370,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 15,
-    "PrixResultatOffre": 9
+    "PrixResultatOffre": 8.5
    },
    {
     "OffersNo": 1531599,
@@ -311,7 +378,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 24
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1531601,
@@ -319,15 +386,15 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
-    "OffersNo": 6517100,
+    "OffersNo": 1534226,
     "DescriptionOffre": "Footworks : Crème Hydratante Soin Intense 75ml",
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 16
    },
    {
     "OffersNo": 6305500,
@@ -335,7 +402,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 16
    },
    {
     "OffersNo": 1491597,
@@ -351,7 +418,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 15,
-    "PrixResultatOffre": 9
+    "PrixResultatOffre": 8.5
    },
    {
     "OffersNo": 1485855,
@@ -359,7 +426,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 15,
-    "PrixResultatOffre": 9
+    "PrixResultatOffre": 8.5
    },
    {
     "OffersNo": 1485858,
@@ -367,7 +434,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 15,
-    "PrixResultatOffre": 9
+    "PrixResultatOffre": 8.5
    },
    {
     "OffersNo": 1485863,
@@ -375,7 +442,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 15,
-    "PrixResultatOffre": 9
+    "PrixResultatOffre": 8.5
    },
    {
     "OffersNo": 1533417,
@@ -383,7 +450,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 15,
-    "PrixResultatOffre": 9
+    "PrixResultatOffre": 8.5
    },
    {
     "OffersNo": 1480961,
@@ -391,15 +458,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 15,
-    "PrixResultatOffre": 9
-   },
-   {
-    "OffersNo": 1484909,
-    "DescriptionOffre": "Avon Care Even-tone+ : Crème mains 75ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 15,
-    "PrixResultatOffre": 9
+    "PrixResultatOffre": 8.5
    },
    {
     "OffersNo": 1499739,
@@ -407,7 +466,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
     "OffersNo": 1503939,
@@ -415,7 +474,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
     "OffersNo": 1532057,
@@ -423,7 +482,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
     "OffersNo": 1480993,
@@ -431,7 +490,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
     "OffersNo": 1485854,
@@ -439,7 +498,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
     "OffersNo": 1485856,
@@ -447,7 +506,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
     "OffersNo": 1485857,
@@ -455,7 +514,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 25
+    "PrixResultatOffre": 24
    },
    {
     "OffersNo": 1485667,
@@ -463,7 +522,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 24
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1485859,
@@ -471,7 +530,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 24
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1485864,
@@ -479,7 +538,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 24
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1484949,
@@ -487,7 +546,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 24
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1527581,
@@ -495,7 +554,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 17
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1458416,
@@ -503,7 +562,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 17
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1527590,
@@ -511,7 +570,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 17
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1527611,
@@ -519,15 +578,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 17
-   },
-   {
-    "OffersNo": 1458826,
-    "DescriptionOffre": "Senses Gel douche 500ml : Pure Marine",
-    "category": "Homme et Femme",
-    "Column4": "Soins du corps",
-    "PrixRegulier": 29,
-    "PrixResultatOffre": 17
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1466568,
@@ -535,7 +586,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 17
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 4329000,
@@ -543,7 +594,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 72,
-    "PrixResultatOffre": 34
+    "PrixResultatOffre": 41
    },
    {
     "OffersNo": 3997900,
@@ -551,7 +602,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 26,
-    "PrixResultatOffre": 12
+    "PrixResultatOffre": 15
    },
    {
     "OffersNo": 1458495,
@@ -559,7 +610,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1458497,
@@ -567,7 +618,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1499370,
@@ -575,7 +626,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 29,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 18
    },
    {
     "OffersNo": 1472467,
@@ -583,7 +634,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 37,
-    "PrixResultatOffre": 22
+    "PrixResultatOffre": 23
    },
    {
     "OffersNo": 1527583,
@@ -591,7 +642,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 37,
-    "PrixResultatOffre": 22
+    "PrixResultatOffre": 23
    },
    {
     "OffersNo": 1527613,
@@ -599,7 +650,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 37,
-    "PrixResultatOffre": 22
+    "PrixResultatOffre": 23
    },
    {
     "OffersNo": 1527596,
@@ -607,7 +658,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1527619,
@@ -615,7 +666,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 23
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1386026,
@@ -623,7 +674,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 28,
-    "PrixResultatOffre": 14
+    "PrixResultatOffre": 16
    },
    {
     "OffersNo": 1458496,
@@ -631,7 +682,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 22,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 14
    },
    {
     "OffersNo": 1463552,
@@ -639,7 +690,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 22,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 12.5
    },
    {
     "OffersNo": 1465794,
@@ -647,7 +698,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 22,
-    "PrixResultatOffre": 13
+    "PrixResultatOffre": 14
    },
    {
     "OffersNo": 4624000,
@@ -655,7 +706,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 12,
-    "PrixResultatOffre": 7.2
+    "PrixResultatOffre": 7
    },
    {
     "OffersNo": 4627100,
@@ -663,7 +714,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 12,
-    "PrixResultatOffre": 7.2
+    "PrixResultatOffre": 7
    },
    {
     "OffersNo": 4626700,
@@ -671,7 +722,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 12,
-    "PrixResultatOffre": 7.2
+    "PrixResultatOffre": 7
    },
    {
     "OffersNo": 1304667,
@@ -679,7 +730,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 56,
-    "PrixResultatOffre": 27
+    "PrixResultatOffre": 28
    },
    {
     "OffersNo": 1236500,
@@ -687,7 +738,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 58,
-    "PrixResultatOffre": 28
+    "PrixResultatOffre": 25
    },
    {
     "OffersNo": 1387643,
@@ -711,7 +762,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 18
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 2599000,
@@ -719,7 +770,7 @@ const Sc = [
     "category": "Homme et Femme",
     "Column4": "Soins du corps",
     "PrixRegulier": 40,
-    "PrixResultatOffre": 18
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 1523890,
@@ -752,7 +803,32 @@ const Sc = [
     "Column4": "Soins du corps",
     "PrixRegulier": 88,
     "PrixResultatOffre": 39
+   },
+   {
+    "OffersNo": 1534995,
+    "DescriptionOffre": "Senses Brume pour le corps 100ml : Tropical Mexicana",
+    "category": "Homme et Femme",
+    "Column4": "Soins du corps",
+    "PrixRegulier": 24,
+    "PrixResultatOffre": 14
+   },
+   {
+    "OffersNo": 1534991,
+    "DescriptionOffre": "Senses Gel douche 500ml : Tropical Mexicana",
+    "category": "Homme et Femme",
+    "Column4": "Soins du corps",
+    "PrixRegulier": 29,
+    "PrixResultatOffre": 18
+   },
+   {
+    "OffersNo": 1534996,
+    "DescriptionOffre": "Senses Bain Mousse 1L : Tropical Mexicana",
+    "category": "Homme et Femme",
+    "Column4": "Soins du corps",
+    "PrixRegulier": 40,
+    "PrixResultatOffre": 19
    }
+   
   
      
     ]
