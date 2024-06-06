@@ -32,20 +32,12 @@ const ApresShmp = [
     "PrixResultatOffre": 13
    },
    {
-    "OffersNo": 1486507,
-    "DescriptionOffre": "Advance techniques Loss Control : Après-shampooing 250ml",
-    "category": "Cheveux ",
-    "Column4": "Après-Shampooing",
-    "PrixRegulier": 22,
-    "PrixResultatOffre": 13
-   },
-   {
     "OffersNo": 1480994,
     "DescriptionOffre": "Advance techniques Hydra Boost : Après-Shampooing 250ml",
     "category": "Cheveux ",
     "Column4": "Après-Shampooing",
     "PrixRegulier": 22,
     "PrixResultatOffre": 13
-   }
+   },
 ]
 export default ApresShmp
