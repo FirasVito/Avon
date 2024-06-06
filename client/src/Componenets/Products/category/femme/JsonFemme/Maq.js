@@ -6,7 +6,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475354,
@@ -14,7 +14,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475356,
@@ -22,7 +22,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475351,
@@ -30,7 +30,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475355,
@@ -38,7 +38,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475357,
@@ -46,7 +46,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475359,
@@ -54,7 +54,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475360,
@@ -62,7 +62,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475352,
@@ -70,7 +70,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475353,
@@ -78,7 +78,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475358,
@@ -86,7 +86,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475361,
@@ -94,7 +94,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475362,
@@ -102,7 +102,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475363,
@@ -110,7 +110,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475371,
@@ -118,7 +118,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475364,
@@ -126,7 +126,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475370,
@@ -134,7 +134,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475366,
@@ -142,7 +142,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475350,
@@ -150,7 +150,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475365,
@@ -158,7 +158,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475367,
@@ -166,7 +166,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475368,
@@ -174,7 +174,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475369,
@@ -182,7 +182,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475372,
@@ -190,7 +190,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1512498,
@@ -198,7 +198,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1512494,
@@ -206,7 +206,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1512497,
@@ -214,7 +214,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1512495,
@@ -222,7 +222,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1512496,
@@ -230,7 +230,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1512526,
@@ -238,7 +238,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1437639,
@@ -254,7 +254,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1475809,
@@ -270,7 +270,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 62,
-      "PrixResultatOffre": 29
+      "PrixResultatOffre": 35
      },
      {
       "OffersNo": 1477541,
@@ -278,7 +278,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 62,
-      "PrixResultatOffre": 29
+      "PrixResultatOffre": 35
      },
      {
       "OffersNo": 1475819,
@@ -286,7 +286,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 62,
-      "PrixResultatOffre": 29
+      "PrixResultatOffre": 35
      },
      {
       "OffersNo": 1475810,
@@ -294,7 +294,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 62,
-      "PrixResultatOffre": 29
+      "PrixResultatOffre": 35
      },
      {
       "OffersNo": 1507115,
@@ -302,7 +302,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 37
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1507116,
@@ -310,7 +310,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 37
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1507119,
@@ -318,7 +318,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 37
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1507120,
@@ -326,7 +326,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 37
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1507121,
@@ -334,7 +334,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 37
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1507124,
@@ -342,7 +342,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 37
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1518715,
@@ -350,7 +350,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 48,
-      "PrixResultatOffre": 23
+      "PrixResultatOffre": 26
      },
      {
       "OffersNo": 1518714,
@@ -358,7 +358,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 48,
-      "PrixResultatOffre": 23
+      "PrixResultatOffre": 26
      },
      {
       "OffersNo": 1518709,
@@ -366,7 +366,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518707,
@@ -374,7 +374,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518708,
@@ -382,15 +382,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
-     },
-     {
-      "OffersNo": 1518711,
-      "DescriptionOffre": "Avon True Rouge à Lèvres Stylo : Vintage Pink",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518706,
@@ -398,7 +390,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518705,
@@ -406,7 +398,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518710,
@@ -414,7 +406,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518721,
@@ -422,7 +414,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518720,
@@ -430,7 +422,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1518719,
@@ -438,7 +430,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 38,
-      "PrixResultatOffre": 19
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1533031,
@@ -446,7 +438,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 44,
-      "PrixResultatOffre": 44
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1533032,
@@ -454,7 +446,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 44,
-      "PrixResultatOffre": 44
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1533033,
@@ -462,7 +454,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 44,
-      "PrixResultatOffre": 44
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1533034,
@@ -470,7 +462,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 44,
-      "PrixResultatOffre": 44
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1533035,
@@ -478,7 +470,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 44,
-      "PrixResultatOffre": 44
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1533036,
@@ -486,7 +478,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 44,
-      "PrixResultatOffre": 21
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1385879,
@@ -678,7 +670,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 28
      },
      {
       "OffersNo": 1477546,
@@ -686,7 +678,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 28
      },
      {
       "OffersNo": 1507160,
@@ -694,7 +686,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 27
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1456258,
@@ -702,7 +694,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1344319,
@@ -710,7 +702,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1437648,
@@ -718,7 +710,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1496952,
@@ -726,7 +718,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1499368,
@@ -734,7 +726,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1499747,
@@ -742,7 +734,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1499748,
@@ -750,7 +742,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 32
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1324212,
@@ -857,38 +849,6 @@ const Maq = [
       "PrixResultatOffre": 31
      },
      {
-      "OffersNo": 1514242,
-      "DescriptionOffre": "Avon true Power Stay 72H ligneur semi-permanent pour Sourcils : Dark Brown",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 80,
-      "PrixResultatOffre": 39
-     },
-     {
-      "OffersNo": 1514243,
-      "DescriptionOffre": "Avon true Power Stay 72H ligneur semi-permanent pour Sourcils : Light Brown ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 80,
-      "PrixResultatOffre": 39
-     },
-     {
-      "OffersNo": 1514244,
-      "DescriptionOffre": "Avon true Power Stay 72H ligneur semi-permanent pour Sourcils : Brunette",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 80,
-      "PrixResultatOffre": 39
-     },
-     {
-      "OffersNo": 1514245,
-      "DescriptionOffre": "Avon true Power Stay 72H ligneur semi-permanent pour Sourcils : Soft Black",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 80,
-      "PrixResultatOffre": 39
-     },
-     {
       "OffersNo": 1520256,
       "DescriptionOffre": "Avon True Power Stay 16H RAL Liquide Mat : Barely Baked",
       "category": "Femme",
@@ -951,38 +911,6 @@ const Maq = [
       "Column4": "Maquillage ",
       "PrixRegulier": 72,
       "PrixResultatOffre": 39
-     },
-     {
-      "OffersNo": 1437667,
-      "DescriptionOffre": "Avon True Rouge à Lèvres satin mate \"Power Stay 10H\" : Love is Blind",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 68,
-      "PrixResultatOffre": 68
-     },
-     {
-      "OffersNo": 1437671,
-      "DescriptionOffre": "Avon True Rouge à Lèvres satin mate \"Power Stay 10H\" : Kiss and Tell",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 68,
-      "PrixResultatOffre": 68
-     },
-     {
-      "OffersNo": 1437666,
-      "DescriptionOffre": "Avon True Rouge à Lèvres satin mate \"Power Stay 10H\" : She's Natural",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 68,
-      "PrixResultatOffre": 68
-     },
-     {
-      "OffersNo": 1437669,
-      "DescriptionOffre": "Avon True Rouge à Lèvres satin mate \"Power Stay 10H\" : Worth the Hype",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 68,
-      "PrixResultatOffre": 68
      },
      {
       "OffersNo": 1467711,
@@ -1113,60 +1041,12 @@ const Maq = [
       "PrixResultatOffre": 24
      },
      {
-      "OffersNo": 1407077,
-      "DescriptionOffre": "Avon True Serum Foundation : Light Ivory ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 78,
-      "PrixResultatOffre": 38
-     },
-     {
-      "OffersNo": 1407080,
-      "DescriptionOffre": "Avon True Serum Foundation : Warm Ivory",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 78,
-      "PrixResultatOffre": 38
-     },
-     {
-      "OffersNo": 1407082,
-      "DescriptionOffre": "Avon True Serum Foundation : Ivory ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 78,
-      "PrixResultatOffre": 38
-     },
-     {
-      "OffersNo": 1407083,
-      "DescriptionOffre": "Avon True Serum Foundation : Shell ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 78,
-      "PrixResultatOffre": 38
-     },
-     {
-      "OffersNo": 1407088,
-      "DescriptionOffre": "Avon True Serum Foundation : Medium Beige ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 78,
-      "PrixResultatOffre": 38
-     },
-     {
-      "OffersNo": 1407086,
-      "DescriptionOffre": "Avon True Serum Foundation : Nude",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 78,
-      "PrixResultatOffre": 38
-     },
-     {
       "OffersNo": 1518698,
       "DescriptionOffre": "Avon True Correcteur de teint Power Stay 18H : Neutral Fair",
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 62,
-      "PrixResultatOffre": 29
+      "PrixResultatOffre": 35
      },
      {
       "OffersNo": 1518701,
@@ -1174,7 +1054,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 62,
-      "PrixResultatOffre": 29
+      "PrixResultatOffre": 35
      },
      {
       "OffersNo": 1478230,
@@ -1182,7 +1062,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 116,
-      "PrixResultatOffre": 55
+      "PrixResultatOffre": 65
      },
      {
       "OffersNo": 1478233,
@@ -1190,7 +1070,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 116,
-      "PrixResultatOffre": 55
+      "PrixResultatOffre": 65
      },
      {
       "OffersNo": 1478235,
@@ -1198,7 +1078,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 116,
-      "PrixResultatOffre": 55
+      "PrixResultatOffre": 65
      },
      {
       "OffersNo": 1478244,
@@ -1206,15 +1086,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 116,
-      "PrixResultatOffre": 55
-     },
-     {
-      "OffersNo": 1478234,
-      "DescriptionOffre": "Avon True Fond de Teint Crème-Poudre \"Power Stay 18 H\" : Light Beige",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 116,
-      "PrixResultatOffre": 55
+      "PrixResultatOffre": 65
      },
      {
       "OffersNo": 1478238,
@@ -1222,7 +1094,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 116,
-      "PrixResultatOffre": 55
+      "PrixResultatOffre": 65
      },
      {
       "OffersNo": 1478253,
@@ -1230,7 +1102,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 116,
-      "PrixResultatOffre": 55
+      "PrixResultatOffre": 65
      },
      {
       "OffersNo": 1501401,
@@ -1238,7 +1110,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 68,
-      "PrixResultatOffre": 33
+      "PrixResultatOffre": 39
      },
      {
       "OffersNo": 1525815,
@@ -1246,7 +1118,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 62,
-      "PrixResultatOffre": 29
+      "PrixResultatOffre": 35
      },
      {
       "OffersNo": 1424375,
@@ -1254,7 +1126,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 38
+      "PrixResultatOffre": 46
      },
      {
       "OffersNo": 1447223,
@@ -1262,23 +1134,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 78,
-      "PrixResultatOffre": 38
-     },
-     {
-      "OffersNo": 1398143,
-      "DescriptionOffre": "Avon True Gel bronzant : Light Bronze ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 70,
-      "PrixResultatOffre": 70
-     },
-     {
-      "OffersNo": 1498767,
-      "DescriptionOffre": "Avon True Magix  : Base Anti-Sébum et Eclat 30ml",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 62,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 46
      },
      {
       "OffersNo": 1474629,
@@ -1286,7 +1142,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474636,
@@ -1294,7 +1150,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474630,
@@ -1302,15 +1158,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
-     },
-     {
-      "OffersNo": 1474637,
-      "DescriptionOffre": "Avon True Fond de Teint \"Power Stay 24H\" : Sun Beige",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474657,
@@ -1318,7 +1166,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474624,
@@ -1326,7 +1174,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474634,
@@ -1334,7 +1182,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474625,
@@ -1342,7 +1190,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474626,
@@ -1350,7 +1198,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1474632,
@@ -1358,7 +1206,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 54
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 1434443,
@@ -1366,7 +1214,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 80,
-      "PrixResultatOffre": 39
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1434442,
@@ -1374,7 +1222,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 80,
-      "PrixResultatOffre": 39
+      "PrixResultatOffre": 45
      },
      {
       "OffersNo": 1532052,
@@ -1390,7 +1238,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 42,
-      "PrixResultatOffre": 20
+      "PrixResultatOffre": 24
      },
      {
       "OffersNo": 1525132,
@@ -1398,7 +1246,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1525130,
@@ -1406,7 +1254,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1525131,
@@ -1414,7 +1262,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1477021,
@@ -1422,7 +1270,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1487590,
@@ -1430,7 +1278,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1487591,
@@ -1438,7 +1286,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1477011,
@@ -1446,7 +1294,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1477012,
@@ -1454,7 +1302,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1527212,
@@ -1462,7 +1310,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1527208,
@@ -1470,7 +1318,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1477018,
@@ -1478,7 +1326,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1527210,
@@ -1486,7 +1334,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1477019,
@@ -1494,7 +1342,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1477017,
@@ -1502,7 +1350,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522726,
@@ -1510,7 +1358,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522727,
@@ -1518,7 +1366,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522728,
@@ -1526,7 +1374,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522729,
@@ -1534,7 +1382,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522730,
@@ -1542,7 +1390,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522731,
@@ -1550,7 +1398,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522732,
@@ -1558,7 +1406,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522733,
@@ -1566,7 +1414,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522734,
@@ -1574,7 +1422,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1522735,
@@ -1582,15 +1430,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 60,
-      "PrixResultatOffre": 30
-     },
-     {
-      "OffersNo": 1406864,
-      "DescriptionOffre": "Avon True \"Lash Supreme\" : Base pour les cils",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 48,
-      "PrixResultatOffre": 28
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 1437473,
@@ -1598,7 +1438,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 72,
-      "PrixResultatOffre": 35
+      "PrixResultatOffre": 42
      },
      {
       "OffersNo": 1437478,
@@ -1606,7 +1446,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 72,
-      "PrixResultatOffre": 35
+      "PrixResultatOffre": 42
      },
      {
       "OffersNo": 1474631,
@@ -1614,7 +1454,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 114,
-      "PrixResultatOffre": 0
+      "PrixResultatOffre": 64
      },
      {
       "OffersNo": 4559800,
@@ -1630,15 +1470,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 50,
-      "PrixResultatOffre": 23
-     },
-     {
-      "OffersNo": 1377112,
-      "DescriptionOffre": "Avon Care Arbre à thé et vitamine E : Crème visage 100ml",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 28,
-      "PrixResultatOffre": 14
+      "PrixResultatOffre": 32
      },
      {
       "OffersNo": 1466130,
@@ -1721,52 +1553,12 @@ const Maq = [
       "PrixResultatOffre": 28
      },
      {
-      "OffersNo": 1461683,
-      "DescriptionOffre": "Avon True \"Gel Shine\" : Base Coat",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 16
-     },
-     {
-      "OffersNo": 1466280,
-      "DescriptionOffre": "Avon True Crayon yeux \"Khôl\" : Bronze Sheen",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 42,
-      "PrixResultatOffre": 24
-     },
-     {
-      "OffersNo": 1466279,
-      "DescriptionOffre": "Avon True Crayon yeux \"Khôl\" : Emerald ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 42,
-      "PrixResultatOffre": 24
-     },
-     {
-      "OffersNo": 1466283,
-      "DescriptionOffre": "Avon True Crayon yeux \"Khôl\" : Midnight ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 42,
-      "PrixResultatOffre": 24
-     },
-     {
-      "OffersNo": 1466273,
-      "DescriptionOffre": "Avon True Crayon yeux \"Khôl\" : True Black",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 42,
-      "PrixResultatOffre": 24
-     },
-     {
       "OffersNo": 1481244,
       "DescriptionOffre": "Avon True Vernis à ongles \"Ultra Colour 60 Second Express\" : Nude Secret",
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481245,
@@ -1774,7 +1566,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481246,
@@ -1782,7 +1574,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481247,
@@ -1790,7 +1582,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481249,
@@ -1798,7 +1590,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481250,
@@ -1806,7 +1598,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481251,
@@ -1814,7 +1606,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481253,
@@ -1822,7 +1614,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1480755,
@@ -1830,7 +1622,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481259,
@@ -1838,7 +1630,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481261,
@@ -1846,7 +1638,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481268,
@@ -1854,7 +1646,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1481257,
@@ -1862,31 +1654,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
-      "PrixResultatOffre": 16
-     },
-     {
-      "OffersNo": 1485530,
-      "DescriptionOffre": "Avon True Vernis à ongles \"Ultra Colour 60 Second Express\" : Clear Mind",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 16
-     },
-     {
-      "OffersNo": 1520299,
-      "DescriptionOffre": "Avon True Vernis à ongles \"Ultra Colour 60 Second Express\" : Serenity in me",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 16
-     },
-     {
-      "OffersNo": 1520302,
-      "DescriptionOffre": "Avon True Vernis à ongles \"Ultra Colour 60 Second Express\" : Peace",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 16
+      "PrixResultatOffre": 17
      },
      {
       "OffersNo": 1475374,
@@ -1894,15 +1662,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 105,
-      "PrixResultatOffre": 50
-     },
-     {
-      "OffersNo": 1491908,
-      "DescriptionOffre": "Fragrance Femme \"Eve Become\" : Eau de parfum 50ml",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 134,
-      "PrixResultatOffre": 79
+      "PrixResultatOffre": 59
      },
      {
       "OffersNo": 1501402,
@@ -1910,15 +1670,7 @@ const Maq = [
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 54,
-      "PrixResultatOffre": 26
-     },
-     {
-      "OffersNo": 1501408,
-      "DescriptionOffre": "Pinceau à Poudre de Précision ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 54,
-      "PrixResultatOffre": 25
+      "PrixResultatOffre": 31
      },
      {
       "OffersNo": 1501405,
@@ -1929,44 +1681,12 @@ const Maq = [
       "PrixResultatOffre": 17
      },
      {
-      "OffersNo": 1501410,
-      "DescriptionOffre": "Accessoires Maquillage : Pinceau Duo pour Sourcils ",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 32,
-      "PrixResultatOffre": 15
-     },
-     {
-      "OffersNo": 1514239,
-      "DescriptionOffre": "Avon true Power Stay Ligneur Liquide semi-permanent : Blackest Black",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 80,
-      "PrixResultatOffre": 39
-     },
-     {
-      "OffersNo": 1514249,
-      "DescriptionOffre": "Avon true Power Stay Ligneur Liquide semi-permanent : Chocolate Brown",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 80,
-      "PrixResultatOffre": 39
-     },
-     {
-      "OffersNo": 1514246,
-      "DescriptionOffre": "Avon true Power Stay Ligneur Liquide semi-permanent : Heather Grey",
-      "category": "Femme",
-      "Column4": "Maquillage ",
-      "PrixRegulier": 80,
-      "PrixResultatOffre": 39
-     },
-     {
       "OffersNo": 1518272,
       "DescriptionOffre": "Avon True Mascara \"EXxtravert\" Waterproof : Blackest Black",
       "category": "Femme",
       "Column4": "Maquillage ",
       "PrixRegulier": 56,
-      "PrixResultatOffre": 27
+      "PrixResultatOffre": 33
      },
      {
       "OffersNo": 4559800,
@@ -1975,6 +1695,278 @@ const Maq = [
       "Column4": "Maquillage ",
       "PrixRegulier": 34,
       "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514240,
+      "DescriptionOffre": "Power Stay Vernis à ongles : PETAL FRESH",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514257,
+      "DescriptionOffre": "Power Stay Vernis à ongles : CANT QUIT CAFE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514254,
+      "DescriptionOffre": "Power Stay Vernis à ongles : COSY THERAPY",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514256,
+      "DescriptionOffre": "Power Stay Vernis à ongles : COUTURE ROSE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514274,
+      "DescriptionOffre": "Power Stay Vernis à ongles : CRYSTALS AND SAGE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514271,
+      "DescriptionOffre": "Power Stay Vernis à ongles : DENIM DREAM",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514259,
+      "DescriptionOffre": "Power Stay Vernis à ongles : DESIGNER RED",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514251,
+      "DescriptionOffre": "Power Stay Vernis à ongles : FAIL PROOF FUCHSIA",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514258,
+      "DescriptionOffre": "Power Stay Vernis à ongles : GUILTY PLEASURE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514267,
+      "DescriptionOffre": "Power Stay Vernis à ongles : HYPNOTISE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514273,
+      "DescriptionOffre": "Power Stay Vernis à ongles : LEMON MERINGUE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514268,
+      "DescriptionOffre": "Power Stay Vernis à ongles : MAKE A FUSS",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514255,
+      "DescriptionOffre": "Power Stay Vernis à ongles : NUDE SILHOUETTE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514253,
+      "DescriptionOffre": "Power Stay Vernis à ongles : PRIVATE JET",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514261,
+      "DescriptionOffre": "Power Stay Vernis à ongles : RED IS RED",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514263,
+      "DescriptionOffre": "Power Stay Vernis à ongles : STAY PUT SANGRIA",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514265,
+      "DescriptionOffre": "Power Stay Vernis à ongles : SWEET BLOOMS",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514270,
+      "DescriptionOffre": "Power Stay Vernis à ongles : TABOO BLUE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514260,
+      "DescriptionOffre": "Power Stay Vernis à ongles : THE RED ONE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514250,
+      "DescriptionOffre": "Power Stay Vernis à ongles : TIMELESS ICON",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1514264,
+      "DescriptionOffre": "Power Stay Vernis à ongles : VIRTUAL REVERIE",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 34,
+      "PrixResultatOffre": 20
+     },
+     {
+      "OffersNo": 1533156,
+      "DescriptionOffre": "Avon True Serum Foundation : 125G - Warm Ivory",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 78,
+      "PrixResultatOffre": 39
+     },
+     {
+      "OffersNo": 1533157,
+      "DescriptionOffre": "Avon True Serum Foundation : 140P - Light Ivory ",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 78,
+      "PrixResultatOffre": 39
+     },
+     {
+      "OffersNo": 1533158,
+      "DescriptionOffre": "Avon True Serum Foundation : 215P - Ivory",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 78,
+      "PrixResultatOffre": 39
+     },
+     {
+      "OffersNo": 1533159,
+      "DescriptionOffre": "Avon True Serum Foundation : 228G - Nude",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 78,
+      "PrixResultatOffre": 39
+     },
+     {
+      "OffersNo": 1533162,
+      "DescriptionOffre": "Avon True Serum Foundation : 230N - Creamy Natural",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 78,
+      "PrixResultatOffre": 39
+     },
+     {
+      "OffersNo": 1533161,
+      "DescriptionOffre": "Avon True Serum Foundation : 235P - Shell",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 78,
+      "PrixResultatOffre": 39
+     },
+     {
+      "OffersNo": 1526143,
+      "DescriptionOffre": "True Colour Palette d’Ombre à Paupière : Earths",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 180,
+      "PrixResultatOffre": 90
+     },
+     {
+      "OffersNo": 1526262,
+      "DescriptionOffre": "True Colour Palette d’Ombre à Paupière : Roses",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 180,
+      "PrixResultatOffre": 90
+     },
+     {
+      "OffersNo": 1526263,
+      "DescriptionOffre": "True Colour Palette d’Ombre à Paupière : Lilacs",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 180,
+      "PrixResultatOffre": 90
+     },
+     {
+      "OffersNo": 1528638,
+      "DescriptionOffre": "Avon True Rouge à Lèvres \"Ultra Matte\" : Coffee Date",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 48,
+      "PrixResultatOffre": 24
+     },
+     {
+      "OffersNo": 1528642,
+      "DescriptionOffre": "Avon True Rouge à Lèvres \"Ultra Matte\" : Rosy Chic",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 48,
+      "PrixResultatOffre": 24
+     },
+     {
+      "OffersNo": 1528643,
+      "DescriptionOffre": "Avon True Rouge à Lèvres \"Ultra Matte\" : Terracotta Rouge ",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 48,
+      "PrixResultatOffre": 24
+     },
+     {
+      "OffersNo": 1528644,
+      "DescriptionOffre": "Avon True Rouge à Lèvres \"Ultra Matte\" : Sunkissed Grape",
+      "category": "Femme",
+      "Column4": "Maquillage ",
+      "PrixRegulier": 48,
+      "PrixResultatOffre": 24
      }
       ]
     export default Maq
