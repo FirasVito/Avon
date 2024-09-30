@@ -25,7 +25,7 @@ export const markOrderAsDone = createAsyncThunk(
   async (orderId, thunkAPI) => {
     try {
       await axios.patch(
-        `https://prod-back.avon-tunisie-shop.com.tn/api/orders/mark-as-done/${orderId}`
+        `https://51.222.25.51:5000/api/orders/mark-as-done/${orderId}`
       );
       toast.success("Order marked as done successfully", {
         position: toast.POSITION.BOTTOM_CENTER,
@@ -41,7 +41,7 @@ export const markOrderAsDone = createAsyncThunk(
 export const fetchOrders = createAsyncThunk("order/fetchOrders", async () => {
   try {
     const response = await axios.get(
-      "https://prod-back.avon-tunisie-shop.com.tn/api/orders/get-orders"
+      "https://51.222.25.51:5000/api/orders/get-orders"
     ); // Change the API endpoint accordingly
     return response.data;
   } catch (error) {
