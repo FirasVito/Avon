@@ -8,7 +8,7 @@ export const createOrder = createAsyncThunk(
   async (orderData, thunkAPI) => {
     try {
       await axios.post(
-        "https://prod-back.avon-tunisie-shop.com.tn/api/orders/create-order",
+        "https://http://51.222.25.51:5000/api/orders/create-order",
         orderData
       );
       toast.success("Commande créée avec succès", {
