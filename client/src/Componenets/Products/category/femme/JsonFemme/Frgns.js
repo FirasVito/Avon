@@ -1,299 +1,352 @@
  const Femm = [
-  {
-    "OffersNo": 1490399,
-    "DescriptionOffre": "Fragrance Femme \"Far Away\" : Eau de parfum 50ml",
+
+   {
+    "OffersNo": 1491839,
+    "DescriptionOffre": "Avon Love U : Eau de Parfum en Vaporisateur 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 79
+    "PrixResultatOffre": 67,
+    "Column8": 67
    },
    {
-    "OffersNo": 1446950,
-    "DescriptionOffre": "Fragrance Femme \"Far Away\" : Déodorant en vaporisateur 75ml",
+    "OffersNo": 1525667,
+    "DescriptionOffre": "Fragrance Femme \"Love U\" : Lait pour le corps 125ml",
     "category": "Femme",
     "Column4": "Fragrance",
-    "PrixRegulier": 25,
-    "PrixResultatOffre": 12.5
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 17.5,
+    "Column8": 17.5
    },
    {
-    "OffersNo": 1490703,
-    "DescriptionOffre": "Fragrance Femme \" Attraction\" Eau de parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 77
-   },
-   {
-    "OffersNo": 1490739,
-    "DescriptionOffre": "Fragrance Femme 30ml : Perceive ",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 32
-   },
-   {
-    "OffersNo": 1491068,
-    "DescriptionOffre": "Fragrance Femme 30ml : Far Away Glamour",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 32
-   },
-   {
-    "OffersNo": 1491067,
-    "DescriptionOffre": "Fragrance Femme 30ml : Attraction ",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 32
-   },
-   {
-    "OffersNo": 1479959,
-    "DescriptionOffre": "Fragrance Femme \"Pur Blanca Hope\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 90,
-    "PrixResultatOffre": 39
-   },
-   {
-    "OffersNo": 1526142,
-    "DescriptionOffre": "Fragrance Femme \"Pur Blanca Golden Burst\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 90,
-    "PrixResultatOffre": 39
-   },
-   {
-    "OffersNo": 1526448,
-    "DescriptionOffre": "Fragrance Femme \"Pur Blanca Summer Bloom\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 90,
-    "PrixResultatOffre": 39
-   },
-   {
-    "OffersNo": 1514234,
-    "DescriptionOffre": "Fragrance Femme \"Imari Queen\" : Eau de Toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 104,
-    "PrixResultatOffre": 45.5
-   },
-   {
-    "OffersNo": 1491569,
-    "DescriptionOffre": "Fragrance Femme \"Far Away Splendoria\" : Eau de Parfum 50ml",
+    "OffersNo": 1535731,
+    "DescriptionOffre": "Avon Love U Connected : Eau de Parfum en Vaporisateur 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 59
+    "PrixResultatOffre": 67,
+    "Column8": 67
    },
    {
-    "OffersNo": 1518115,
-    "DescriptionOffre": "Far Away Beyon The Moon For Her : Eau de Parfum en Vaporisateur 50ml",
+    "OffersNo": 1536128,
+    "DescriptionOffre": "Fragrance Femme \"Love U\" Connected : Lait pour le corps 125ml",
     "category": "Femme",
     "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 69
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 17.5,
+    "Column8": 17.5
    },
+
+
+ 
    {
     "OffersNo": 1521142,
     "DescriptionOffre": "Fragrance Femme \"Far Away Rebel\" : Eau de parfum 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 59
+    "PrixResultatOffre": 64,
+    "Column8": 70
    },
    {
-    "OffersNo": 1533581,
-    "DescriptionOffre": "Fragrance Femme \"Incandessence\" : Eau de parfum 50ml",
+    "OffersNo": 1490399,
+    "DescriptionOffre": "Fragrance Femme \"Far Away\" : Eau de parfum 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 79
+    "PrixResultatOffre": 64,
+    "Column8": 70
    },
    {
-    "OffersNo": 1490741,
-    "DescriptionOffre": "Fragrance Femme \"Incandessence Lotus\" : Eau de parfum 50ml",
+    "OffersNo": 1491015,
+    "DescriptionOffre": "Fragrance Femme \"Far Away Glamour\" : Eau de parfum 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 85
+    "PrixResultatOffre": 64,
+    "Column8": 70
    },
    {
-    "OffersNo": 1491839,
-    "DescriptionOffre": "Fragrance Femme \"LOV U\" : Eau de Parfum 50ml",
+    "OffersNo": 1518115,
+    "DescriptionOffre": "Far Away Beyond The Moon For Her : Eau de Parfum en Vaporisateur 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 79
+    "PrixResultatOffre": 64,
+    "Column8": 70
    },
    {
-    "OffersNo": 1491059,
-    "DescriptionOffre": "Fragrance Femme \"Little Black Dress\" : Eau de parfum 50ml",
+    "OffersNo": 1490321,
+    "DescriptionOffre": "Fragrance Femme \"Luck\" : Eau de parfum 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 67
-   },
-   {
-    "OffersNo": 1491582,
-    "DescriptionOffre": "Fragrance Femme \"Little Black Dress Lace\" : Eau de parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 85
-   },
-   {
-    "OffersNo": 1490707,
-    "DescriptionOffre": "Fragrance Femme \"Perceive\" : Eau de parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 79
-   },
-   {
-    "OffersNo": 1464836,
-    "DescriptionOffre": "Fragrance Femme \"Attraction Game\" : Eau de parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 77
+    "PrixResultatOffre": 64,
+    "Column8": 70
    },
    {
     "OffersNo": 1493873,
-    "DescriptionOffre": "Fragrance Femme \"Attraction Intense\" : Eau de parfum 50ml",
+    "DescriptionOffre": "Attraction Intense pour Elle : Eau de Parfum 50ml",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 134,
-    "PrixResultatOffre": 77
+    "PrixResultatOffre": 64,
+    "Column8": 70
    },
    {
-    "OffersNo": 1491054,
-    "DescriptionOffre": "Fragrance Femme \"TTA Today\" : Eau de parfum 50ml",
+    "OffersNo": 1318848,
+    "DescriptionOffre": "Fragrance Femme \"Far Away\" : Lait pour le corps 150ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 4558000,
+    "DescriptionOffre": "Fragrance Femme \"Far Away Rebel\" : Lait pour le corps 150ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 7792900,
+    "DescriptionOffre": "Fragrance Femme \"Far Away Glamour\" : Lait pour le corps 150ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1525839,
+    "DescriptionOffre": "Fragrance Femme \"Little Black Dress\" : Lait pour le corps 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1503958,
+    "DescriptionOffre": "Far Away Beyon The Moon For Her : Lait pour le coprs 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1505676,
+    "DescriptionOffre": "Fragrance Femme \"Imari Queen\" : Lait pour le corps 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1526826,
+    "DescriptionOffre": "Fragrance Femme \"Rare Pearls\" : Lait pour le corps 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1525810,
+    "DescriptionOffre": "Fragrance Femme \"Little Black Dress Lace\" : Lait pour le corps 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1544202,
+    "DescriptionOffre": "Fragrance Femme \"Imari Naturelle\" : Laits Corps 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1525666,
+    "DescriptionOffre": "Fragrance Femme \"Eve Become\" : Lait pour le corps 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1526054,
+    "DescriptionOffre": "Fragrance Femme \"Pur Blanca\" : Lait pour le corps 125ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 35,
+    "PrixResultatOffre": 19,
+    "Column8": 16
+   },
+   {
+    "OffersNo": 1313460,
+    "DescriptionOffre": "Fragrance Femme \"Far Away\" : Déodorant à bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 1885100,
+    "DescriptionOffre": "Fragrance Femme \"Far Away Glamour\" : Déodorant à bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 1306423,
+    "DescriptionOffre": "Fragrance Femme \"Pur Blanca\" : Déodorant à bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 6724500,
+    "DescriptionOffre": "Fragrance Femme \"Perceive\" : Déodorant à bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 1482219,
+    "DescriptionOffre": "Fragrance Femme \"Little Black Dress\" : Déodorant à bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 1544201,
+    "DescriptionOffre": "Fragrance Femme \"Imari Naturelle\" : Déo à Bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 1545970,
+    "DescriptionOffre": "Fragrance Femme \"Imari Queen\" : Déo à Bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 7165800,
+    "DescriptionOffre": "Fragrance Femme \"Soft Musk\" : Déodorant à bille 50ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 12,
+    "PrixResultatOffre": 7.2,
+    "Column8": 4.8
+   },
+   {
+    "OffersNo": 1537376,
+    "DescriptionOffre": "Avon Eau de Cologne en Vaporisateur 200ml : Joyful",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 60,
+    "PrixResultatOffre": 29,
+    "Column8": 31
+   },
+   {
+    "OffersNo": 1537518,
+    "DescriptionOffre": "Avon Eau de Cologne en Vaporisateur 200ml : Delightful",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 60,
+    "PrixResultatOffre": 29,
+    "Column8": 31
+   },
+   {
+    "OffersNo": 1537519,
+    "DescriptionOffre": "Avon Eau de Cologne en Vaporisateur 200ml : Blissful",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 60,
+    "PrixResultatOffre": 29,
+    "Column8": 31
+   },
+   {
+    "OffersNo": 1490714,
+    "DescriptionOffre": "Fragrance Femme \"Pur Blanca\" : Brume 100ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 42,
+    "PrixResultatOffre": 20,
+    "Column8": 22
+   },
+   {
+    "OffersNo": 1481455,
+    "DescriptionOffre": "Fragrance Femme \"Little Black Dress\" : Brume 100ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 42,
+    "PrixResultatOffre": 20,
+    "Column8": 22
+   },
+   {
+    "OffersNo": 1491061,
+    "DescriptionOffre": "Fragrance Femme \"Célèbre\" : Brume 100ml",
+    "category": "Femme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 42,
+    "PrixResultatOffre": 20,
+    "Column8": 22
+   },
+   
+   
+   {
+    "OffersNo": 1524989,
+    "DescriptionOffre": "Fragrance Femme \"Coffret Cadeau\" (EDP 50ml + Lait Coprs 150ml) : Little Black Dress ",
     "category": "Femme",
     "Column4": "Fragrance",
     "PrixRegulier": 160,
-    "PrixResultatOffre": 92
+    "PrixResultatOffre": 77,
+    "Column8": 83
    },
    {
-    "OffersNo": 1491056,
-    "DescriptionOffre": "Fragrance Femme \"TTA Tomorrow\" : Eau de parfum en vaporisateur 50ml",
+    "OffersNo": 1523544,
+    "DescriptionOffre": "Fragrance Femme \"Coffret Cadeau\" (EDP 50ml + Lait Corps 150ml) : Pur Blanca ",
     "category": "Femme",
     "Column4": "Fragrance",
-    "PrixRegulier": 160,
-    "PrixResultatOffre": 92
+    "PrixRegulier": 120,
+    "PrixResultatOffre": 58,
+    "Column8": 62
    },
    {
-    "OffersNo": 1490709,
-    "DescriptionOffre": "Fragrance Femme \"Rare Gold\" : Eau de parfum 50ml",
+    "OffersNo": 1522697,
+    "DescriptionOffre": "Fragrance Femme \"Coffret Cadeau\" (EDP 50ml + Gel Douche 150ml + Laits Corps 150ml) : Rare Pearls",
     "category": "Femme",
     "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 79
+    "PrixRegulier": 196,
+    "PrixResultatOffre": 95,
+    "Column8": 101
    },
-   {
-    "OffersNo": 1490702,
-    "DescriptionOffre": "Fragrance Femme \"Rare Pearls\" : Eau de parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 79
-   },
-   {
-    "OffersNo": 1490713,
-    "DescriptionOffre": "Fragrance Femme \"Pur Blanca\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 90,
-    "PrixResultatOffre": 52
-   },
-   {
-    "OffersNo": 1524359,
-    "DescriptionOffre": "Fragrance Femme \"Soft Musk\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 66,
-    "PrixResultatOffre": 38
-   },
-   {
-    "OffersNo": 1490398,
-    "DescriptionOffre": "Fragrance Femme \"Wish Of Love\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 104,
-    "PrixResultatOffre": 57
-   },
-   {
-    "OffersNo": 1490324,
-    "DescriptionOffre": "Fragrance Femme \"Cherish\" : Eau de parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 85
-   },
-   {
-    "OffersNo": 1501365,
-    "DescriptionOffre": "Far Away Endless Sun : Eau de parfum en Vaporisateur 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 59
-   },
-   {
-    "OffersNo": 1492320,
-    "DescriptionOffre": "Fragrance Femme \"Imari Eclipse\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 104,
-    "PrixResultatOffre": 59
-   },
-   {
-    "OffersNo": 1499417,
-    "DescriptionOffre": "TTA Wonder For Her : Eau de Parfum en Vaporisateur 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 160,
-    "PrixResultatOffre": 92
-   },
-   {
-    "OffersNo": 1535731,
-    "DescriptionOffre": "Fragrance Femme \"LOV U CONNECTED\" : Eau de Parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 79
-   },
-   {
-    "OffersNo": 1491060,
-    "DescriptionOffre": "Fragrance Femme \"Passion Dance\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 104,
-    "PrixResultatOffre": 57
-   },
-   {
-    "OffersNo": 1530402,
-    "DescriptionOffre": "Fragrance Femme 30ml : Far Away",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 32
-   },
-   {
-    "OffersNo": 1530403,
-    "DescriptionOffre": "Fragrance Femme 30ml : Incandessence",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 32
-   },
-   {
-    "OffersNo": 1530404,
-    "DescriptionOffre": "Fragrance Femme 30ml : Little Black Dress",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 32
-   }
+
 ]
   export default Femm
