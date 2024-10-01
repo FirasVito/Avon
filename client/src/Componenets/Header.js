@@ -79,9 +79,7 @@ function Header() {
               <li className="nav-item"> 
               <a className="nav-link" href="/Cheveux">Cheveux</a>
               </li>
-              <li className="nav-item">
-              <a className="nav-link" href="/Idées-Cdx">Idées Cadeaux</a>
-              </li>
+           
               <li className="nav-item">
                 <a className="nav-link" href="/cart">
                  <div>    <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 456.029 456.029" style={{enableBackground: 'new 0 0 456.029 456.029'}} xmlSpace="preserve">
