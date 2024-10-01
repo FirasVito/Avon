@@ -8,7 +8,6 @@ const Maq = [
       "PrixRegulier": 62,
       "PrixResultatOffre": 30
      },
-  
      {
       "OffersNo": 1474636,
       "DescriptionOffre": "Avon Fond de teint Power Stay 24H : 228G Nude",
