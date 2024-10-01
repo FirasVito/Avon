@@ -8,7 +8,6 @@ const Svc = [
     "PrixResultatOffre": 69,
     "Column8": 111
    },
-  
 
    {
     "OffersNo": 1469186,
