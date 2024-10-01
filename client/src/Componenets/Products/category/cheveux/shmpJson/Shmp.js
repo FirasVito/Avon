@@ -9,7 +9,7 @@ const Chmp = [
     "PrixResultatOffre": 15.5,
     "Column8": 16.5
    },
-  
+
 
    {
     "OffersNo": 1374387,
