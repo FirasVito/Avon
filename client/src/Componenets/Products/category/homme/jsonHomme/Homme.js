@@ -26,14 +26,7 @@ const Homme = [
    },
    
   
-   {
-    "OffersNo": 1493848,
-    "DescriptionOffre": "Fragrance Homme \" Attraction\" : Eau de toilette 75ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 64
-   },
+  
    {
     "OffersNo": 1490717,
     "DescriptionOffre": "Fragrance Homme \"Segno\" : Eau de parfum 75ml",
@@ -153,6 +146,14 @@ const Homme = [
     "Column4": "Fragrance",
     "PrixRegulier": 12,
     "PrixResultatOffre": 7.2
+   },
+   {
+    "OffersNo": 1493848,
+    "DescriptionOffre": "Fragrance Homme \" Attraction\" : Eau de toilette 75ml",
+    "category": "Homme",
+    "Column4": "Fragrance",
+    "PrixRegulier": 134,
+    "PrixResultatOffre": 64
    },
    {
     "OffersNo": 1444791,
