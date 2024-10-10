@@ -7,7 +7,7 @@ import { useDispatch, useSelector } from "react-redux";
 
 import './Dproduct.css'
 import HommeProducts from './category/homme/HommeProducts';
-import SoinCorps from './category/femme/SoinCorps';
+import SoinCorps from './category/femme/SoinCorps'; 
 import HommeToilette from './category/homme/jsonHomme/HommeToilette';
 import HommeTlt from './category/homme/HommeTlt';
 import Shamp from './category/cheveux/Shamp';
