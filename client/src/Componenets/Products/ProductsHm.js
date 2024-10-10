@@ -124,7 +124,22 @@ function UncontrolledExample() {
    
       <Row>
         <Col sm={3}>
-        <h1>POUR LUI </h1>
+              <div style={{ padding: "20px" }}>
+      {/* CHEVEUX Heading */}
+    
+
+      {/* POUR LUI Heading */}
+      <h1 style={{ fontSize: "48px", fontWeight: "bold", fontFamily: "Arial, sans-serif" }}>
+        <span style={{ color: "#FF4081" }}>P</span>
+        <span style={{ color: "#F50057" }}>O</span>
+        <span style={{ color: "#E040FB" }}>U</span>
+        <span style={{ color: "#D500F9" }}>R</span>
+        <span style={{ color: "#C51162" }}> </span> {/* Space character */}
+        <span style={{ color: "#FF4081" }}>L</span>
+        <span style={{ color: "#F50057" }}>U</span>
+        <span style={{ color: "#E040FB" }}>I</span>
+      </h1>
+    </div>
 <hr/>
           <Nav variant="pills" className="flex-column">
             <Nav.Item>
