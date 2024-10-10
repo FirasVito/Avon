@@ -10,7 +10,7 @@ import HommeProducts from './category/homme/HommeProducts';
 import SoinCorps from './category/femme/SoinCorps';
 import HommeToilette from './category/homme/jsonHomme/HommeToilette';
 import HommeTlt from './category/homme/HommeTlt';
-import CoffretHme from './category/homme/CoffretHme';
+import CoffretHme from './category/homme/CoffretHme'; 
 function UncontrolledExample() {
   const totalQte = useSelector((state)=>state.cart.cartTotalQuantity)
 
