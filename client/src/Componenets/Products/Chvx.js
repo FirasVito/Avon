@@ -127,8 +127,17 @@ function Chvx() {
    
       <Row>
         <Col sm={3}>
-        <h1>CHEVEUX </h1>
-<hr/>
+        <div style={{ padding: "20px" }}>
+      <h1 style={{ fontSize: "48px", fontWeight: "bold", fontFamily: "Arial, sans-serif" }}>
+        <span style={{ color: "#FF4081" }}>C</span>
+        <span style={{ color: "#F50057" }}>H</span>
+        <span style={{ color: "#E040FB" }}>E</span>
+        <span style={{ color: "#D500F9" }}>V</span>
+        <span style={{ color: "#C51162" }}>E</span>
+        <span style={{ color: "#AA00FF" }}>U</span>
+        <span style={{ color: "#9C27B0" }}>X</span>
+      </h1>
+    </div><hr/>
           <Nav variant="pills" className="flex-column">
             <Nav.Item>
             <Nav.Item>
