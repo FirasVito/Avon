@@ -35,9 +35,7 @@ function Chvx() {
               <li className="nav-item">
                 <a className="nav-link" href="/Offres">Offres</a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/Coffrets">Coffrets </a>
-              </li>
+          
               <li className="nav-item">
                 <a className="nav-link" href="/products">Femme</a>
               </li>
