@@ -1,4 +1,27 @@
 /* Dproductt.css */
+
+.sidebar .nav-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px; /* Space between icon and text */
+  color: #ff1493; /* Darker pink for better clarity */
+  font-size: 18px;
+  transition: color 0.3s ease, transform 0.3s ease; /* Animation for hover effect */
+}
+
+.sidebar .nav-link:hover {
+  color: #ff69b4; /* Lighter pink on hover */
+  transform: scale(1.1); /* Slight zoom-in animation on hover */
+}
+
+.nav-icon {
+  font-size: 24px; /* Adjust the size of the icons */
+}
+
+.sidebar .nav-item {
+  margin-bottom: 20px; /* Add some space between nav items */
+}
 /* ... your existing CSS ... */
 .btnn {
   padding: 10px 20px;
