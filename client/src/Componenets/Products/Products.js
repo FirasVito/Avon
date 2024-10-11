@@ -125,9 +125,16 @@ function UncontrolledExample() {
 
 
         <Col sm={3} className="text-center my-4"> {/* Centering and adding margin */}
-      <h2 className="mb-3" style={{ color: '#d63384' }}> {/* Apply pink color */}
-        <span> POUR ELLE</span>
-      </h2>
+  <h1 style={{ fontSize: "48px", fontWeight: "bold", fontFamily: "Arial, sans-serif" }}>
+        <span style={{ color: "#FF4081" }}>P</span>
+        <span style={{ color: "#F50057" }}>O</span>
+        <span style={{ color: "#E040FB" }}>U</span>
+        <span style={{ color: "#D500F9" }}>R</span>
+        <span style={{ color: "#C51162" }}> </span> {/* Space character */}
+        <span style={{ color: "#FF4081" }}>L</span>
+        <span style={{ color: "#F50057" }}>U</span>
+        <span style={{ color: "#E040FB" }}>I</span>
+      </h1>
       <hr style={{ borderColor: '#d63384' }} /> {/* Pink line */}
       
       <Nav variant="pills" className="flex-column sidebar">
