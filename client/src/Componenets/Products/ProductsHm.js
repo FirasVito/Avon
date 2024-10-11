@@ -4,6 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import Row from 'react-bootstrap/Row';
 
 import { useDispatch, useSelector } from "react-redux";
+import { FaPerfume, FaToiletPaper } from 'react-icons/fa'; // Importing icons
 
 import './Dproduct.css'
 import HommeProducts from './category/homme/HommeProducts';
@@ -141,28 +142,21 @@ function UncontrolledExample() {
       </h1>
     </div>
 <hr/>
-          <Nav variant="pills" className="flex-column">
-            <Nav.Item>
-            <Nav.Item>
-              <Nav.Link eventKey="first">   FRAGRANCES  </Nav.Link>
-            </Nav.Item>
-            
-            <Nav.Item>
-              <Nav.Link eventKey="Third">  PRODUITS DE TOILETTE   </Nav.Link>
-            </Nav.Item>
+          <Nav variant="pills" className="flex-column sidebar">
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="first" className="nav-link">
+          <FaPerfume className="nav-icon" /> {/* Icon for FRAGRANCES */}
+          FRAGRANCES
+        </Nav.Link>
+      </Nav.Item>
 
-            {/* <Nav.Item>
-              <Nav.Link eventKey="second">  SOINS  </Nav.Link>
-            </Nav.Item> */}
-            {/* <Nav.Item>
-              <Nav.Link eventKey="fifty">  COFFRET  </Nav.Link>
-            </Nav.Item> */}
-
-            
-           
-            </Nav.Item>
-            
-          </Nav>
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="third" className="nav-link">
+          <FaToiletPaper className="nav-icon" /> {/* Icon for PRODUITS DE TOILETTE */}
+          PRODUITS DE TOILETTE
+        </Nav.Link>
+      </Nav.Item>
+    </Nav>
        
         </Col>
         <Col sm={9}>
