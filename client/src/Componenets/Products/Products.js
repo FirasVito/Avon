@@ -125,16 +125,20 @@ function UncontrolledExample() {
 
 
         <Col sm={3} className="text-center my-4"> {/* Centering and adding margin */}
-  <h1 style={{ fontSize: "48px", fontWeight: "bold", fontFamily: "Arial, sans-serif" }}>
+  <div style={{ padding: "20px" }}>
+      {/* Independent Heading for "POUR ELLE" */}
+      <h1 style={{ fontSize: "48px", fontWeight: "bold", fontFamily: "Arial, sans-serif" }}>
         <span style={{ color: "#FF4081" }}>P</span>
         <span style={{ color: "#F50057" }}>O</span>
         <span style={{ color: "#E040FB" }}>U</span>
         <span style={{ color: "#D500F9" }}>R</span>
         <span style={{ color: "#C51162" }}> </span> {/* Space character */}
-        <span style={{ color: "#FF4081" }}>L</span>
-        <span style={{ color: "#F50057" }}>U</span>
-        <span style={{ color: "#E040FB" }}>I</span>
+        <span style={{ color: "#FF4081" }}>E</span>
+        <span style={{ color: "#F50057" }}>L</span>
+        <span style={{ color: "#E040FB" }}>L</span>
+        <span style={{ color: "#D500F9" }}>E</span>
       </h1>
+    </div>
       <hr style={{ borderColor: '#d63384' }} /> {/* Pink line */}
       
       <Nav variant="pills" className="flex-column sidebar">
