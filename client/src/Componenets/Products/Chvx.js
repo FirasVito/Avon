@@ -2,6 +2,7 @@ import Tab from 'react-bootstrap/Tab';
 import Col from 'react-bootstrap/Col';
 import Nav from 'react-bootstrap/Nav';
 import Row from 'react-bootstrap/Row';
+import { FaShower, FaCut, FaSpa } from 'react-icons/fa'; // Importing icons from react-icons
 
 import { useDispatch, useSelector } from "react-redux";
 
