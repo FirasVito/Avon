@@ -1,11 +1,9 @@
 import Tab from 'react-bootstrap/Tab';
-import Tabs from 'react-bootstrap/Tabs';
 import Col from 'react-bootstrap/Col';
 import Nav from 'react-bootstrap/Nav';
 import Row from 'react-bootstrap/Row';
 import SoinVisageandCorps from './category/femme/SoinVisageandCorps';
 import Maquillage from './category/femme/Maquillage';
-import FraganceFemmee from './category/femme/FraganceFemme';
 import { useDispatch, useSelector } from "react-redux";
 import { FaLeaf, FaHeart, FaSpa, FaMagic } from 'react-icons/fa'; // Importing icons
 
@@ -108,37 +106,31 @@ function UncontrolledExample() {
               
                 </a>
               </li>
-              <form className="form-inline">
-                <button className="btn  my-2 my-sm-0 nav_search-btn" type="submit">
-                  <i className="fa fa-search" aria-hidden="true" />
-                </button>
-              </form>
+     
             </ul>
           </div>
         </nav>
       </div>
     </header>
 
+
+
         
          <Tab.Container id="left-tabs-example" defaultActiveKey="first">
    
       <Row>
-        <Col sm={3}>
-   <div style={{ padding: "20px" }}>
-      {/* Independent Heading for "POUR ELLE" */}
-      <h1 style={{ fontSize: "48px", fontWeight: "bold", fontFamily: "Arial, sans-serif" }}>
-        <span style={{ color: "#FF4081" }}>P</span>
-        <span style={{ color: "#F50057" }}>O</span>
-        <span style={{ color: "#E040FB" }}>U</span>
-        <span style={{ color: "#D500F9" }}>R</span>
-        <span style={{ color: "#C51162" }}> </span> {/* Space character */}
-        <span style={{ color: "#FF4081" }}>E</span>
-        <span style={{ color: "#F50057" }}>L</span>
-        <span style={{ color: "#E040FB" }}>L</span>
-        <span style={{ color: "#D500F9" }}>E</span>
-      </h1>
-    </div>           <hr/>
-        <Nav variant="pills" className="flex-column sidebar">
+     
+
+
+
+
+        <Col sm={3} className="text-center my-4"> {/* Centering and adding margin */}
+      <h2 className="mb-3" style={{ color: '#d63384' }}> {/* Apply pink color */}
+        <span> POUR ELLE</span>
+      </h2>
+      <hr style={{ borderColor: '#d63384' }} /> {/* Pink line */}
+      
+      <Nav variant="pills" className="flex-column sidebar">
       <Nav.Item className="nav-item">
         <Nav.Link eventKey="first" className="nav-link my-nav-link">
           <FaLeaf className="nav-icon me-2 mr-4" /> {/* Icon for FRAGRANCES */}
@@ -148,7 +140,7 @@ function UncontrolledExample() {
       <br />
 
       <Nav.Item className="nav-item">
-        <Nav.Link eventKey="forth" className="nav-link my-nav-link">
+        <Nav.Link eventKey="Forth" className="nav-link my-nav-link">
           <FaHeart className="nav-icon me-2 mr-4" /> {/* Icon for MAQUILLAGES */}
           MAQUILLAGES
         </Nav.Link>
@@ -164,14 +156,13 @@ function UncontrolledExample() {
       <br />
 
       <Nav.Item className="nav-item">
-        <Nav.Link eventKey="third" className="nav-link my-nav-link">
+        <Nav.Link eventKey="Third" className="nav-link my-nav-link">
           <FaMagic className="nav-icon me-2 mr-4" /> {/* Icon for SOINS DU VISAGE */}
           SOINS DU VISAGE
         </Nav.Link>
       </Nav.Item>
     </Nav>
-       
-        </Col>
+    </Col>
         <Col sm={9}>
           <Tab.Content>
             <br/>
