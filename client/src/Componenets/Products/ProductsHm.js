@@ -4,7 +4,7 @@ import Nav from 'react-bootstrap/Nav';
 import Row from 'react-bootstrap/Row';
 
 import { useDispatch, useSelector } from "react-redux";
-import { FaPerfume, FaToiletPaper } from 'react-icons/fa'; // Importing icons
+import { FaSprayCan, FaRestroom } from 'react-icons/fa'; // Importing available icons
 
 import './Dproduct.css'
 import HommeProducts from './category/homme/HommeProducts';
@@ -142,17 +142,17 @@ function UncontrolledExample() {
       </h1>
     </div>
 <hr/>
-          <Nav variant="pills" className="flex-column sidebar">
+         <Nav variant="pills" className="flex-column sidebar">
       <Nav.Item className="nav-item">
         <Nav.Link eventKey="first" className="nav-link">
-          <FaPerfume className="nav-icon" /> {/* Icon for FRAGRANCES */}
+          <FaSprayCan className="nav-icon" /> {/* Icon for FRAGRANCES */}
           FRAGRANCES
         </Nav.Link>
       </Nav.Item>
 
       <Nav.Item className="nav-item">
         <Nav.Link eventKey="third" className="nav-link">
-          <FaToiletPaper className="nav-icon" /> {/* Icon for PRODUITS DE TOILETTE */}
+          <FaRestroom className="nav-icon" /> {/* Icon for PRODUITS DE TOILETTE */}
           PRODUITS DE TOILETTE
         </Nav.Link>
       </Nav.Item>
