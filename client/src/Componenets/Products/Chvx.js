@@ -138,25 +138,28 @@ function Chvx() {
         <span style={{ color: "#9C27B0" }}>X</span>
       </h1>
     </div><hr/>
-          <Nav variant="pills" className="flex-column">
-            <Nav.Item>
-            <Nav.Item>
-              <Nav.Link eventKey="first">   SHAMPOOING  </Nav.Link>
-            </Nav.Item>
-            
-            <Nav.Item>
-              <Nav.Link eventKey="Third">  APRES SHAMPOOING   </Nav.Link>
-            </Nav.Item>
+          <Nav variant="pills" className="flex-column sidebar">
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="first" className="nav-link">
+          <FaShower className="nav-icon" /> {/* Icon for SHAMPOOING */}
+          SHAMPOOING
+        </Nav.Link>
+      </Nav.Item>
 
-            <Nav.Item>
-              <Nav.Link eventKey="second">  SOINS  </Nav.Link>
-            </Nav.Item>
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="Third" className="nav-link">
+          <FaCut className="nav-icon" /> {/* Icon for APRES SHAMPOOING */}
+          APRES SHAMPOOING
+        </Nav.Link>
+      </Nav.Item>
 
-            
-           
-            </Nav.Item>
-            
-          </Nav>
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="second" className="nav-link">
+          <FaSpa className="nav-icon" /> {/* Icon for SOINS */}
+          SOINS
+        </Nav.Link>
+      </Nav.Item>
+    </Nav>
        
         </Col>
         <Col sm={9}>
