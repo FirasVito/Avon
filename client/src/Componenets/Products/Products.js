@@ -7,6 +7,7 @@ import SoinVisageandCorps from './category/femme/SoinVisageandCorps';
 import Maquillage from './category/femme/Maquillage';
 import FraganceFemmee from './category/femme/FraganceFemme';
 import { useDispatch, useSelector } from "react-redux";
+import { FaLeaf, FaHeart, FaSpa, FaMagic } from 'react-icons/fa'; // Importing icons
 
 import './Dproduct.css'
 import FragranceFemme from './category/femme/FraganceFemme';
@@ -137,28 +138,38 @@ function UncontrolledExample() {
         <span style={{ color: "#D500F9" }}>E</span>
       </h1>
     </div>           <hr/>
-          <Nav variant="pills" className="flex-column">
-            <Nav.Item>
-            <Nav.Item>
-              <Nav.Link eventKey="first">   FRAGRANCES  </Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link eventKey="Forth">  MAQUILLAGES</Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link eventKey="second"> SOINS DU CORPS</Nav.Link>
-            </Nav.Item>
-              <Nav.Link eventKey="Third"> SOINS DU VISAGE </Nav.Link>
-            </Nav.Item>
-            {/* <Nav.Item>
-              <Nav.Link eventKey="fifty"> COFFRETS</Nav.Link>
-            </Nav.Item> */}
-            
-            
-            <Nav.Item>
-            </Nav.Item>
-            
-          </Nav>
+        <Nav variant="pills" className="flex-column sidebar">
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="first" className="nav-link my-nav-link">
+          <FaLeaf className="nav-icon me-2 mr-4" /> {/* Icon for FRAGRANCES */}
+          FRAGRANCES
+        </Nav.Link>
+      </Nav.Item>
+      <br />
+
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="forth" className="nav-link my-nav-link">
+          <FaHeart className="nav-icon me-2 mr-4" /> {/* Icon for MAQUILLAGES */}
+          MAQUILLAGES
+        </Nav.Link>
+      </Nav.Item>
+      <br />
+
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="second" className="nav-link my-nav-link">
+          <FaSpa className="nav-icon me-2 mr-4" /> {/* Icon for SOINS DU CORPS */}
+          SOINS DU CORPS
+        </Nav.Link>
+      </Nav.Item>
+      <br />
+
+      <Nav.Item className="nav-item">
+        <Nav.Link eventKey="third" className="nav-link my-nav-link">
+          <FaMagic className="nav-icon me-2 mr-4" /> {/* Icon for SOINS DU VISAGE */}
+          SOINS DU VISAGE
+        </Nav.Link>
+      </Nav.Item>
+    </Nav>
        
         </Col>
         <Col sm={9}>
