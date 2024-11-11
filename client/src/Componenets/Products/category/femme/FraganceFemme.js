@@ -128,14 +128,20 @@ function FragranceFemme() {
               </h2>
               <p>Page {currentPage}</p>
 <br/>
-              <div className="search-bar">
-                <input
-                  type="text"
-                  placeholder="Recherche"
-                  value={searchQuery}
-                  onChange={handleSearchInputChange}
-                />
-              </div>
+                    <form className="form-inline search-bar">
+  <div className="input-group">
+    <input
+      type="text"
+      className="form-control search-input"
+      placeholder="Recherche"
+      value={searchQuery}
+      onChange={handleSearchInputChange}
+    />
+    <div className="input-group-append">
+     
+    </div>
+  </div>
+</form>
               <div className="row">
                 {currentProducts.map((product) => (
                   <div
