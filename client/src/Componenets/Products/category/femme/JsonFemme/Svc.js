@@ -1,22 +1,155 @@
 const Svc = [ 
   {
-    "OffersNo": 1527221,
-    "DescriptionOffre": "Soin \"Coffret cadeau\" (Sérum 30ml + Crème Contour Yeux 15ml) : Anew Renewal Power",
+    "OffersNo": 1327044,
+    "DescriptionOffre": "Nutraeffects Radiance : BB Crème Extra Light 30ml",
+    "category": "Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 70,
+    "PrixResultatOffre": 38
+   },
+   {
+    "OffersNo": 1358719,
+    "DescriptionOffre": "Nutraeffects Radiance : BB Crème Medium 30ml",
+    "category": "Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 70,
+    "PrixResultatOffre": 38
+   },
+   {
+    "OffersNo": 1358718,
+    "DescriptionOffre": "Nutraeffects Radiance : BB Crème Light 30ml",
+    "category": "Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 70,
+    "PrixResultatOffre": 38
+   },
+   {
+    "OffersNo": 1544484,
+    "DescriptionOffre": "Anew BHA Even Texture & Tone : Crème Eclaircissante de jour SPF 35 pour le Visage et le Cou 50ml",
     "category": "Homme et Femme",
     "Column4": "Soins du visage",
-    "PrixRegulier": 180,
-    "PrixResultatOffre": 69,
-    "Column8": 111
+    "PrixRegulier": 142,
+    "PrixResultatOffre": 69
    },
-
+   {
+    "OffersNo": 1540434,
+    "DescriptionOffre": "Anew BHA Even Texture & Tone : Sérum Eclaircissant pour le Visage et le Cou 30ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 142,
+    "PrixResultatOffre": 69
+   },
+   {
+    "OffersNo": 1540435,
+    "DescriptionOffre": "Anew Retinol : Sérum Lissant pour le Visage et le Cou 30ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 142,
+    "PrixResultatOffre": 69
+   },
+   {
+    "OffersNo": 1527746,
+    "DescriptionOffre": "Anew Bright Day \"Coffret Cadeau\" (Lifting Système Dual + Ultimate Crème SPF 25 50ml + Renewal Power Sérum 10ml)",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 280,
+    "PrixResultatOffre": 98
+   },
+   {
+    "OffersNo": 1527747,
+    "DescriptionOffre": "Anew Platinum \"Coffret Cadeau\" (Lifting Système Dual + Platinum Crème SPF 25 50ml + Renewal Power Sérum 10ml)",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 286,
+    "PrixResultatOffre": 98
+   },
+   {
+    "OffersNo": 1388283,
+    "DescriptionOffre": "Anew Hydra Pro Vita-D : Crème Micellaire Hydratante 50ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 116,
+    "PrixResultatOffre": 49
+   },
+   {
+    "OffersNo": 1488306,
+    "DescriptionOffre": "Anew Sensitive+ : Crème visage 50ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 132,
+    "PrixResultatOffre": 56
+   },
+   {
+    "OffersNo": 1542705,
+    "DescriptionOffre": "Avon Care Avocat : Masque visage 75ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 15,
+    "PrixResultatOffre": 8
+   },
+   {
+    "OffersNo": 1537152,
+    "DescriptionOffre": "Clearskin Blemish Clearing : Nettoyant  150ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 40,
+    "PrixResultatOffre": 19
+   },
+   {
+    "OffersNo": 1550587,
+    "DescriptionOffre": "Clearskin Blemish Clearing : Nettoyant rafraîchissant moussant 150ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 40,
+    "PrixResultatOffre": 19
+   },
+   {
+    "OffersNo": 1332360,
+    "DescriptionOffre": "Nutraeffects Nourish : Eau Micellaire 200ml ",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 50,
+    "PrixResultatOffre": 29
+   },
+   {
+    "OffersNo": 1327041,
+    "DescriptionOffre": "Nutraeffects Mattifying : BB Crème Extra Light 30ml",
+    "category": "Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 70,
+    "PrixResultatOffre": 38
+   },
+   {
+    "OffersNo": 1358747,
+    "DescriptionOffre": "Nutraeffects Mattifying : BB Crème Medium 30ml",
+    "category": "Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 70,
+    "PrixResultatOffre": 38
+   },
+   {
+    "OffersNo": 1339893,
+    "DescriptionOffre": "Nutraeffects Mattifying : BB Crème Light 30ml",
+    "category": "Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 70,
+    "PrixResultatOffre": 38
+   },
+   {
+    "OffersNo": 1478680,
+    "DescriptionOffre": "Avon Care Cooling : Masque visage 75ml",
+    "category": "Homme et Femme",
+    "Column4": "Soins du visage",
+    "PrixRegulier": 15,
+    "PrixResultatOffre": 8
+   },
    {
     "OffersNo": 1469186,
     "DescriptionOffre": "Anew Reversalist : Crème de jour SPF 25 50ml",
     "category": "Homme et Femme",
     "Column4": "Soins du visage",
     "PrixRegulier": 132,
-    "PrixResultatOffre": 56,
-    "Column8": 76
+    "PrixResultatOffre": 59
    },
    {
     "OffersNo": 1387108,
@@ -24,44 +157,7 @@ const Svc = [
     "category": "Homme et Femme",
     "Column4": "Soins du visage",
     "PrixRegulier": 132,
-    "PrixResultatOffre": 56,
-    "Column8": 76
-   },
-   {
-    "OffersNo": 1387105,
-    "DescriptionOffre": "Anew Ultimate : Crème de jour SPF 25 50ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 152,
-    "PrixResultatOffre": 65,
-    "Column8": 87
-   },
-   {
-    "OffersNo": 1387103,
-    "DescriptionOffre": "Anew Ultimate : Crème de nuit 50ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 152,
-    "PrixResultatOffre": 65,
-    "Column8": 87
-   },
-   {
-    "OffersNo": 1387101,
-    "DescriptionOffre": "Anew Platinum : Crème de jour SPF 25 50ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 158,
-    "PrixResultatOffre": 67,
-    "Column8": 91
-   },
-   {
-    "OffersNo": 1387102,
-    "DescriptionOffre": "Anew Platinum : Crème de nuit 50ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 158,
-    "PrixResultatOffre": 67,
-    "Column8": 91
+    "PrixResultatOffre": 59
    },
    {
     "OffersNo": 1334439,
@@ -69,17 +165,15 @@ const Svc = [
     "category": "Homme et Femme",
     "Column4": "Soins du visage",
     "PrixRegulier": 60,
-    "PrixResultatOffre": 29,
-    "Column8": 31
+    "PrixResultatOffre": 34
    },
    {
     "OffersNo": 1490243,
     "DescriptionOffre": "Anew Sensitive+ : Crème nettoyante visage 150ml",
     "category": "Homme et Femme",
-    "Column4": "Soin du visage",
+    "Column4": "Soins du visage",
     "PrixRegulier": 60,
-    "PrixResultatOffre": 29,
-    "Column8": 31
+    "PrixResultatOffre": 34
    },
    {
     "OffersNo": 1344969,
@@ -87,118 +181,39 @@ const Svc = [
     "category": "Homme et Femme",
     "Column4": "Soins du visage",
     "PrixRegulier": 66,
-    "PrixResultatOffre": 32,
-    "Column8": 34
-   },
-   {
-    "OffersNo": 1387168,
-    "DescriptionOffre": "Anew Vitamine C :  Sérum Eclat 30ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 132,
-    "PrixResultatOffre": 58,
-    "Column8": 74
+    "PrixResultatOffre": 34
    },
    {
     "OffersNo": 1473643,
     "DescriptionOffre": "Anew Vitamine C : Crème SPF50 50ml",
     "category": "Homme et Femme",
-    "Column4": "Soin du visage",
+    "Column4": "Soins du visage",
     "PrixRegulier": 122,
-    "PrixResultatOffre": 53,
-    "Column8": 69
-   },
-   {
-    "OffersNo": 1533934,
-    "DescriptionOffre": "Anew Vitamine C : Crème pour les yeux correction éclat et cernes 15ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 62,
-    "PrixResultatOffre": 27,
-    "Column8": 35
-   },
-   {
-    "OffersNo": 1509892,
-    "DescriptionOffre": "Anew Vitamine C Microdermabrasion : Gommage pour le visage 75ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 84,
-    "PrixResultatOffre": 36,
-    "Column8": 48
+    "PrixResultatOffre": 52
    },
    {
     "OffersNo": 1344721,
     "DescriptionOffre": "Anew Nettoyant : Tonique éclaircissant 200ml",
-    "category": "Femme",
+    "category": "Homme et Femme",
     "Column4": "Soins du visage",
     "PrixRegulier": 66,
-    "PrixResultatOffre": 29,
-    "Column8": 37
+    "PrixResultatOffre": 34
    },
    {
     "OffersNo": 1317970,
     "DescriptionOffre": "Clearskin Blackhead Clearing : Masque  75ml",
     "category": "Homme et Femme",
-    "Column4": "Soin du visage",
+    "Column4": "Soins du visage",
     "PrixRegulier": 42,
-    "PrixResultatOffre": 23,
-    "Column8": 19
+    "PrixResultatOffre": 19
    },
    {
     "OffersNo": 6351800,
     "DescriptionOffre": "Clearskin Blackhead Clearing Tonique Clarifiant et Rafraîchissant 100ml",
     "category": "Homme et Femme",
-    "Column4": "Soin du visage",
+    "Column4": "Soins du visage",
     "PrixRegulier": 24,
-    "PrixResultatOffre": 13,
-    "Column8": 11
+    "PrixResultatOffre": 11
    },
-   {
-    "OffersNo": 1327038,
-    "DescriptionOffre": "Clearskin Pore & Shine Control : Savonnette 75gr",
-    "category": "Homme et Femme",
-    "Column4": "Soin",
-    "PrixRegulier": 20,
-    "PrixResultatOffre": 11,
-    "Column8": 9
-   },
-   {
-    "OffersNo": 1497410,
-    "DescriptionOffre": "Clearskin Blemish : Triple Exfoliant à  l'Argile rose 75ml",
-    "category": "Homme et Femme",
-    "Column4": "Soin du visage",
-    "PrixRegulier": 42,
-    "PrixResultatOffre": 23,
-    "Column8": 19
-   },
-   {
-    "OffersNo": 1400405,
-    "DescriptionOffre": "Clearskin Pore & Shine Control : Tonique 100ml",
-    "category": "Homme et Femme",
-    "Column4": "Soin du visage",
-    "PrixRegulier": 24,
-    "PrixResultatOffre": 13,
-    "Column8": 11
-   },
-   {
-    "OffersNo": 1539354,
-    "DescriptionOffre": "Clearskin Pore & Shine Control : Gelée Nettoyante Purifiante 125ml",
-    "category": "Homme et Femme",
-    "Column4": "Soin du visage",
-    "PrixRegulier": 42,
-    "PrixResultatOffre": 23,
-    "Column8": 19
-   },
-  
-   {
-    "OffersNo": 1539353,
-    "DescriptionOffre": "Clearskin Blackhead: Exfoliant & Nettoyant 125ml",
-    "category": "Homme et Femme",
-    "Column4": "Soin du visage",
-    "PrixRegulier": 33,
-    "PrixResultatOffre": 16.5,
-    "Column8": 16.5
-   },
-
     ]
   export default Svc
