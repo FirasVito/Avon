@@ -1,8 +1,5 @@
  const Femm = [
- 
 
-   
-   
    {
     "OffersNo": 1525838,
     "DescriptionOffre": "Fragrance Femme \"TTA Today\" : Lait pour le corps 125ml",
