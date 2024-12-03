@@ -71,14 +71,7 @@ const HommeToilette = [
       "PrixRegulier": 66,
       "PrixResultatOffre": 36
      },
-     {
-      "OffersNo": 1317970,
-      "DescriptionOffre": "Clearskin Blackhead Clearing : Masque  75ml",
-      "category": "Homme et Femme",
-      "Column4": "Soins du visage",
-      "PrixRegulier": 42,
-      "PrixResultatOffre": 0
-     },
+
      {
       "OffersNo": 4538900,
       "DescriptionOffre": "Clearskin Accessoire : Tire-comédons 1pièce",
@@ -311,30 +304,7 @@ const HommeToilette = [
       "PrixRegulier": 15,
       "PrixResultatOffre": 9.5
      },
-     {
-      "OffersNo": 1531602,
-      "DescriptionOffre": "Avon Care Fruits Tropicaux : Crème hydratante pour les mains 75ml",
-      "category": "Homme et Femme",
-      "Column4": "Soins du Corps",
-      "PrixRegulier": 15,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1538821,
-      "DescriptionOffre": "Avon Care Derma HA: Crème Mains 75ml",
-      "category": "Homme et Femme",
-      "Column4": "Soins du Corps",
-      "PrixRegulier": 15,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1480961,
-      "DescriptionOffre": "Avon Care Gentle : Crème mains 75ml",
-      "category": "Homme et Femme",
-      "Column4": "Soins du Corps",
-      "PrixRegulier": 15,
-      "PrixResultatOffre": 0
-     },
+    
      {
       "OffersNo": 1485855,
       "DescriptionOffre": "Avon Care Grenade : Crème mains 75ml",
@@ -423,14 +393,7 @@ const HommeToilette = [
       "PrixRegulier": 50,
       "PrixResultatOffre": 25
      },
-     {
-      "OffersNo": 1545725,
-      "DescriptionOffre": "Avon Care Even-tone+ : Crème jour visage 100ml",
-      "category": "Homme et Femme",
-      "Column4": "Soins du visage",
-      "PrixRegulier": 28,
-      "PrixResultatOffre": 0
-     },
+  
      {
       "OffersNo": 1541667,
       "DescriptionOffre": "Avon Care Essential Express : Gel de Corps 200ml",
@@ -439,22 +402,7 @@ const HommeToilette = [
       "PrixRegulier": 36,
       "PrixResultatOffre": 18
      },
-     {
-      "OffersNo": 1411078,
-      "DescriptionOffre": "Footworks Lavande : Crème nuit 150ml",
-      "category": "Homme et Femme",
-      "Column4": "Soins du Corps",
-      "PrixRegulier": 28,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1420039,
-      "DescriptionOffre": "Footworks Lavande : Spray 100ml",
-      "category": "Homme et Femme",
-      "Column4": "Soins du Corps",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
+   
      {
       "OffersNo": 6305500,
       "DescriptionOffre": "Footworks : Crème  cors et les callosités 75ml",
