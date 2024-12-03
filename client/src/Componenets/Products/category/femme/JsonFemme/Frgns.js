@@ -1,46 +1,5 @@
  const Femm = [
   
-   {
-    "OffersNo": 1491060,
-    "DescriptionOffre": "Fragrance Femme \"Passion Dance\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 104,
-    "PrixResultatOffre": 0
-   },
-   {
-    "OffersNo": 1490398,
-    "DescriptionOffre": "Fragrance Femme \"Wish Of Love\" : Eau de toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 104,
-    "PrixResultatOffre": 0
-   },
-   {
-    "OffersNo": 1530403,
-    "DescriptionOffre": "Fragrance Femme 30ml : Incandessence",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 64,
-    "PrixResultatOffre": 0
-   },
-  
-   {
-    "OffersNo": 796400,
-    "DescriptionOffre": "Incandessence: Déodorant Parfumé à Bille 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
-   {
-    "OffersNo": 1313460,
-    "DescriptionOffre": "Fragrance Femme \"Far Away\" : Déodorant à bille 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
    
    {
     "OffersNo": 1550888,
@@ -148,22 +107,7 @@
     "PrixRegulier": 134,
     "PrixResultatOffre": 79
    },
-   {
-    "OffersNo": 6724500,
-    "DescriptionOffre": "Fragrance Femme \"Perceive\" : Déodorant à bille 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
-   {
-    "OffersNo": 1482219,
-    "DescriptionOffre": "Fragrance Femme \"Little Black Dress\" : Déodorant à bille 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
+ 
 
    {
     "OffersNo": 1550250,
@@ -189,14 +133,7 @@
     "PrixRegulier": 134,
     "PrixResultatOffre": 79
    },
-   {
-    "OffersNo": 1514234,
-    "DescriptionOffre": "Fragrance Femme \"Imari Queen\" : Eau de Toilette 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 104,
-    "PrixResultatOffre": 0
-   },
+
  
    {
     "OffersNo": 1526140,
@@ -206,14 +143,7 @@
     "PrixRegulier": 196,
     "PrixResultatOffre": 96
    },
-   {
-    "OffersNo": 1490707,
-    "DescriptionOffre": "Fragrance Femme \"Perceive\" : Eau de parfum 50ml",
-    "category": "Femme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 134,
-    "PrixResultatOffre": 0
-   },
+ 
   
  ]
   export default Femm
