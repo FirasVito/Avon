@@ -23,14 +23,7 @@ const Svc = [
     "PrixRegulier": 158,
     "PrixResultatOffre": 79
    },
-   {
-    "OffersNo": 1380772,
-    "DescriptionOffre": "Planet Spa Radiance Ritual : Masque visage 50ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 24,
-    "PrixResultatOffre": 0
-   },
+
    {
     "OffersNo": 1387105,
     "DescriptionOffre": "Anew Ultimate : Crème de jour SPF 25 50ml",
@@ -95,14 +88,7 @@ const Svc = [
     "PrixRegulier": 66,
     "PrixResultatOffre": 36
    },
-   {
-    "OffersNo": 1317970,
-    "DescriptionOffre": "Clearskin Blackhead Clearing : Masque  75ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 42,
-    "PrixResultatOffre": 0
-   },
+
    {
     "OffersNo": 4538900,
     "DescriptionOffre": "Clearskin Accessoire : Tire-comédons 1pièce",
@@ -247,14 +233,7 @@ const Svc = [
     "PrixRegulier": 50,
     "PrixResultatOffre": 25
    },
-   {
-    "OffersNo": 1545725,
-    "DescriptionOffre": "Avon Care Even-tone+ : Crème jour visage 100ml",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 28,
-    "PrixResultatOffre": 0
-   },
+  
    {
     "OffersNo": 1541667,
     "DescriptionOffre": "Avon Care Essential Express : Gel de Corps 200ml",
@@ -279,13 +258,6 @@ const Svc = [
     "PrixRegulier": 33,
     "PrixResultatOffre": 19
    },
-   {
-    "OffersNo": 1379934,
-    "DescriptionOffre": "Anew Ultimate : Masque Pelliculable à base d'Or 75ml ",
-    "category": "Homme et Femme",
-    "Column4": "Soins du visage",
-    "PrixRegulier": 36,
-    "PrixResultatOffre": 0
-   }
+
 ]
   export default Svc
