@@ -209,30 +209,7 @@ const Sc = [
           "PrixRegulier": 15,
           "PrixResultatOffre": 9.5
          },
-         {
-          "OffersNo": 1531602,
-          "DescriptionOffre": "Avon Care Fruits Tropicaux : Crème hydratante pour les mains 75ml",
-          "category": "Homme et Femme",
-          "Column4": "Soins du Corps",
-          "PrixRegulier": 15,
-          "PrixResultatOffre": 0
-         },
-         {
-          "OffersNo": 1538821,
-          "DescriptionOffre": "Avon Care Derma HA: Crème Mains 75ml",
-          "category": "Homme et Femme",
-          "Column4": "Soins du Corps",
-          "PrixRegulier": 15,
-          "PrixResultatOffre": 0
-         },
-         {
-          "OffersNo": 1480961,
-          "DescriptionOffre": "Avon Care Gentle : Crème mains 75ml",
-          "category": "Homme et Femme",
-          "Column4": "Soins du Corps",
-          "PrixRegulier": 15,
-          "PrixResultatOffre": 0
-         },
+   
          {
           "OffersNo": 1485855,
           "DescriptionOffre": "Avon Care Grenade : Crème mains 75ml",
@@ -259,22 +236,7 @@ const Sc = [
           "PrixResultatOffre": 7.5
          },
         
-         {
-          "OffersNo": 1411078,
-          "DescriptionOffre": "Footworks Lavande : Crème nuit 150ml",
-          "category": "Homme et Femme",
-          "Column4": "Soins du Corps",
-          "PrixRegulier": 28,
-          "PrixResultatOffre": 0
-         },
-         {
-          "OffersNo": 1420039,
-          "DescriptionOffre": "Footworks Lavande : Spray 100ml",
-          "category": "Homme et Femme",
-          "Column4": "Soins du Corps",
-          "PrixRegulier": 34,
-          "PrixResultatOffre": 0
-         },
+  
          {
           "OffersNo": 6305500,
           "DescriptionOffre": "Footworks : Crème  cors et les callosités 75ml",
