@@ -25,14 +25,7 @@ const Chmp = [
       "PrixResultatOffre": 15
      },
  
-     {
-      "OffersNo": 1550725,
-      "DescriptionOffre": "Avon Kids Floral Scent : \"2en1\" Shampooing et après Shampooing 200ml",
-      "category": "Cheveux ",
-      "Column4": "Shampooing",
-      "PrixRegulier": 30,
-      "PrixResultatOffre": 0
-     },
+  
  
      {
       "OffersNo": 1472531,
