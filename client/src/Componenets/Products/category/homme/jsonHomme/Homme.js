@@ -26,47 +26,7 @@ const Homme = [
     "PrixRegulier": 134,
     "PrixResultatOffre": 67
    },
-   {
-    "OffersNo": 1475674,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Quantum\" : Gel douche 2en1 250ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 33,
-    "PrixResultatOffre": 0
-   },
-   {
-    "OffersNo": 1460790,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed\" : Déodorant à bille 50ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
-   {
-    "OffersNo": 1491565,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Surfer\" : Eau de toilette 75ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 124,
-    "PrixResultatOffre": 0
-   },
-   {
-    "OffersNo": 1491034,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed\" : Eau de toilette 75ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 124,
-    "PrixResultatOffre": 0
-   },
   
-   {
-    "OffersNo": 1454747,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Quantum\" : Déodorant à bille 50ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
    {
     "OffersNo": 1552751,
     "DescriptionOffre": "Attraction Closer pour Lui : Gel douche 2en1 200ml",
@@ -99,14 +59,7 @@ const Homme = [
   //   "PrixRegulier": 164,
   //   "PrixResultatOffre": 79
   //  },
-   {
-    "OffersNo": 1541524,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Boost\" : Déodorant à bille 50ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
+
   //  {
   //   "OffersNo": 1540180,
   //   "DescriptionOffre": "Fragrance Homme \"Full Speed Boost \" : Eau de toilette 75ml",
@@ -147,23 +100,7 @@ const Homme = [
   //   "PrixRegulier": 96,
   //   "PrixResultatOffre": 0
   //  },
-   {
-    "OffersNo": 1512071,
-    "DescriptionOffre": "Fragrance Homme \"Musk Metropolitano\" : Déodorant à bille 50ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   },
-  
-   {
-    "OffersNo": 1502905,
-    "DescriptionOffre": "Fragrance Homme \"Full Speed Electric \" : Gel douche corps et cheveux 200ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 33,
-    "PrixResultatOffre": 0
-   },
+   
    {
     "OffersNo": 1493874,
     "DescriptionOffre": "Attraction Intense pour Lui : Eau de Toilette 75ml",
@@ -191,13 +128,6 @@ const Homme = [
   
   
  
-   {
-    "OffersNo": 1306421,
-    "DescriptionOffre": "Fragrance Homme \"Individual Blue\" : Déodorant à bille 50ml",
-    "category": "Homme",
-    "Column4": "Fragrance",
-    "PrixRegulier": 12,
-    "PrixResultatOffre": 0
-   }
+
 ]
   export default Homme
