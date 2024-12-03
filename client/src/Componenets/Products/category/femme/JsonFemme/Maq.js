@@ -184,14 +184,7 @@ const Maq = [
       "PrixResultatOffre": 29
      },
     
-     {
-      "OffersNo": 1514257,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Can't Quit Cafe",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
+
      {
       "OffersNo": 1475349,
       "DescriptionOffre": "Avon True Ligneur yeux \"Glimmerstick\" : Blackest Black",
@@ -480,85 +473,8 @@ const Maq = [
       "PrixRegulier": 56,
       "PrixResultatOffre": 33.5
      },
-     {
-      "OffersNo": 1514274,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Crystals & Sage",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514271,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Denim Dream",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514259,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Designer Red",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514267,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Hypnotise",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514273,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Lemon Meringue",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514268,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Make a Fuss",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514253,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Private Jet",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514265,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Sweet Blooms",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514270,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Taboo Blue",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     },
-     {
-      "OffersNo": 1514264,
-      "DescriptionOffre": "Avon True Colour Power Stay VAO 10ml: Virtual Reverie",
-      "category": "Femme",
-      "Column4": "Maquillage",
-      "PrixRegulier": 34,
-      "PrixResultatOffre": 0
-     }
+   
+     
+     
 ]
     export default Maq
